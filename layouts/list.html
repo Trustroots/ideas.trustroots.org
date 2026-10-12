@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>{{ .Content }}
+{{ $pager := .Paginate .Pages.ByDate.Reverse }}
+{{ range $pager.Pages }}{{ partial "post-card.html" . }}{{ end }}
+{{ template "_internal/pagination.html" . }}
+{{ end }}

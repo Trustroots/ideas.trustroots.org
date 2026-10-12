@@ -1,0 +1,63 @@
+name: Hugo site
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: Publish to GitHub Pages after reviewing the content
+        type: boolean
+        default: false
+      base_url:
+        description: Canonical URL (use the GitHub project URL for the initial preview)
+        type: string
+        default: https://ideas.trustroots.org/
+permissions:
+  contents: read
+concurrency:
+  group: hugo-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Install pinned Hugo
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/hugo_0.167.0_linux-amd64.tar.gz"
+          curl --fail --silent --show-error --location \
+            https://github.com/gohugoio/hugo/releases/download/v0.167.0/hugo_0.167.0_linux-amd64.tar.gz \
+            --output "$archive"
+          echo "4d84519b9f619e6d4c3fb45a50157abeabeb724f859c60605f44c23def6e1169  $archive" | sha256sum --check
+          mkdir -p "$RUNNER_TEMP/hugo-bin"
+          tar -xzf "$archive" -C "$RUNNER_TEMP/hugo-bin" hugo
+          echo "$RUNNER_TEMP/hugo-bin" >> "$GITHUB_PATH"
+      - name: Build
+        env:
+          SITE_BASE_URL: ${{ inputs.base_url || 'https://ideas.trustroots.org/' }}
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo-cache
+        run: hugo --minify --panicOnWarning --baseURL "$SITE_BASE_URL"
+      - name: Upload Pages artifact
+        if: github.event_name == 'workflow_dispatch' && inputs.deploy && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        with:
+          path: public
+  deploy:
+    if: github.event_name == 'workflow_dispatch' && inputs.deploy && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5

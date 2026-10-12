@@ -1,0 +1,42 @@
+media:
+  input: static/images
+  output: /images
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: content/posts
+    format: yaml-frontmatter
+    exclude: [_index.md]
+    filename: '{year}-{month}-{day}-{primary}.md'
+    view:
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Publication date
+        type: date
+        required: true
+      - name: draft
+        label: Draft (still publicly visible in the repository)
+        type: boolean
+        default: true
+      - name: slug
+        label: URL slug
+        type: string
+      - name: description
+        label: Short description
+        type: text
+      - name: author
+        type: string
+      - name: tags
+        type: string
+        list: true
+      - name: body
+        label: Post
+        type: rich-text

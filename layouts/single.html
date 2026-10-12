@@ -1,0 +1,4 @@
+{{ define "main" }}
+<article class="post"><header><p class="eyebrow">{{ .Date.Format "2 January 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</p><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}</header><div class="prose">{{ .Content }}</div>
+{{ with .GetTerms "tags" }}<nav class="tags" aria-label="Post tags">{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</nav>{{ end }}</article>
+{{ end }}

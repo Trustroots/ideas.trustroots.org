@@ -1,0 +1,7 @@
+{{ define "main" }}
+<section class="intro"><p class="eyebrow">From the community</p><h1>{{ .Title }}</h1>{{ .Content }}</section>
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ $pager := .Paginate $posts.ByDate.Reverse }}
+{{ range $pager.Pages }}{{ partial "post-card.html" . }}{{ else }}<p>Posts will appear here as they are published.</p>{{ end }}
+{{ template "_internal/pagination.html" . }}
+{{ end }}

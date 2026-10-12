@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+  <meta name="description" content="{{ .Description | default site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+  {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header"><a class="brand" href="{{ "" | relURL }}">Trustroots <span>Ideas</span></a><nav aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">All posts</a><a href="https://www.trustroots.org/">Trustroots ↗</a></nav></header>
+  <main id="content">{{ block "main" . }}{{ end }}</main>
+  <footer><p>Trustroots — sharing, connecting, exploring.</p><a href="{{ "index.xml" | relURL }}">RSS</a> · <a href="https://github.com/Trustroots/ideas.trustroots.org">Source &amp; contributions</a></footer>
+</body>
+</html>

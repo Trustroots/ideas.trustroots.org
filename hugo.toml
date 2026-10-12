@@ -1,0 +1,16 @@
+baseURL = 'https://ideas.trustroots.org/'
+locale = 'en'
+title = 'Trustroots Ideas'
+enableRobotsTXT = true
+
+[params]
+description = 'Stories, updates and ideas from the Trustroots community.'
+
+[permalinks.page]
+posts = '/:year/:month/:day/:slug/'
+
+[pagination]
+pagerSize = 12
+
+[markup.goldmark.renderer]
+unsafe = false
