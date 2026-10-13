@@ -6,6 +6,7 @@ author: "Callum Macdonald"
 draft: false
 tags: ["alternative to couchsurfing"]
 categories: ["Trustroots"]
+comments_id: 10
 ---
 
 Way back when, in the dim and distant past, when smartphones were still only a dream...

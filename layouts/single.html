@@ -1,6 +1,23 @@
 {{ define "main" }}
 {{ $withSidebar := eq .Section "posts" }}{{ if $withSidebar }}<div class="blog-layout">{{ end }}
 <article class="post"><a class="back-link" href="{{ "posts/" | relURL }}">← All posts</a><header><p class="eyebrow">{{ if not .Date.IsZero }}{{ .Date.Format "2 January 2006" }}{{ end }}{{ with .Params.author }} · {{ . }}{{ end }}{{ if and (not .Lastmod.IsZero) (.Lastmod.After .Date) }} · <span>Last updated: {{ .Lastmod.Format "2 January 2006" }}.</span>{{ end }}</p><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}</header><div class="prose">{{ .Content }}</div>
-{{ partial "post-taxonomies.html" . }}</article>
+{{ partial "post-taxonomies.html" . }}
+{{ with .Params.comments_id }}
+  {{ $comments := index hugo.Data.comments (printf "%v" .) }}
+  {{ with $comments }}
+    <section class="archived-comments" aria-labelledby="archived-comments-title">
+      <h2 id="archived-comments-title">Archived discussion</h2>
+      <p class="archived-comments-notice">These historical comments are read only. Replies and new comments are closed.</p>
+      <p class="archived-comments-count">{{ len . }} {{ if eq (len .) 1 }}comment{{ else }}comments{{ end }}</p>
+      <ol class="archived-comment-list">
+        {{ $allComments := . }}
+        {{ $roots := where $allComments "parent_id" 0 }}
+        {{ range sort $roots "date" "asc" }}
+          {{ partial "archived-comments.html" (dict "comments" $allComments "comment" . "depth" 0) }}
+        {{ end }}
+      </ol>
+    </section>
+  {{ end }}
+{{ end }}</article>
 {{ if $withSidebar }}{{ partial "sidebar.html" . }}</div>{{ end }}
 {{ end }}

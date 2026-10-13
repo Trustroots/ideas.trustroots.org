@@ -8,6 +8,7 @@ image: "/images/2014/12/Screen-Shot-2014-12-25-at-00.10.42-300x206.png"
 image_alt: "Screen Shot 2014-12-25 at 00.10.42"
 tags: ["alternative to couchsurfing", "Facebook"]
 categories: ["Newsletter", "Trustroots"]
+comments_id: 80
 ---
 
 Yay! Trustroots.org is now out of the first testing/bugfixing round. It's time to join us and spread the word!

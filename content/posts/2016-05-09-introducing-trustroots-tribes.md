@@ -8,6 +8,7 @@ image: "/images/2016/05/trustroots-tribes-grid-2016.png"
 image_alt: "Trustroots Tribes grid"
 tags: ["Features", "tribes"]
 categories: ["Trustroots"]
+comments_id: 1100
 ---
 
 Today [we're introducing](https://www.trustroots.org/tribes) **Trustroots Tribes\***. A Tribe\* is a group of people on Trustroots with similar interests.

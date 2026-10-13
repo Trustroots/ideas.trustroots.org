@@ -6,6 +6,7 @@ author: "Shawn"
 draft: false
 tags: []
 categories: ["Trustroots", "Volunteering"]
+comments_id: 6233
 ---
 
 **This coming weekend there is another Hackathon happening!** For three days and nights our team will be devoting as much time as possible working on projects like our react migration, iOS application and i18N translations.

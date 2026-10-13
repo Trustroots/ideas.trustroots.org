@@ -1,0 +1,16 @@
+[
+  {
+    "id": 103,
+    "parent_id": 0,
+    "author": "Tjipetir",
+    "date": "2015-01-15 22:41:51",
+    "text": "great post!"
+  },
+  {
+    "id": 104,
+    "parent_id": 103,
+    "author": "Carlos",
+    "date": "2015-01-16 10:56:09",
+    "text": "Thanks! Glad you like it :-)"
+  }
+]

@@ -8,6 +8,7 @@ image: "/images/2017/08/meet-dot.png"
 image_alt: ""
 tags: []
 categories: ["Trustroots"]
+comments_id: 1808
 ---
 
 You can now *meet* people on Trustroots even if you don't need hosting or cannot host. This is probably the biggest change in Trustroots since our launch two years ago!

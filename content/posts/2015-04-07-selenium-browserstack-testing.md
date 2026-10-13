@@ -6,6 +6,7 @@ author: "guaka"
 draft: false
 tags: ["Features", "free software", "volunteering"]
 categories: ["Technical", "Trustroots"]
+comments_id: 440
 ---
 
 [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)

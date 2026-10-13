@@ -8,6 +8,7 @@ image: "/images/2020/07/Columbus_landing_on_Hispaniola-e1596209089507-300x255.jp
 image_alt: ""
 tags: []
 categories: ["Feature Updates", "Trustroots"]
+comments_id: 3599
 ---
 
 You might be wondering why Trustroots is changing the name of Tribes. In this collaborative article we will try to explain what's behind the change and why this matters. It has mainly been written by Mariyano, a Brazilian backpacker currently under lockdown in Buenos Aires due to the pandemic, and Martin A. who spent a few years travelling before finding relative stability by the European Alps. But as you will see below there has also been plenty of discussion among the Trustroots volunteers, so all in all it's a rather communal project.

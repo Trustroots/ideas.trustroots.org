@@ -1,0 +1,65 @@
+[
+  {
+    "id": 43,
+    "parent_id": 0,
+    "author": "Mikael",
+    "date": "2014-12-29 11:34:57",
+    "text": "Just by the way, some ~70% profiles are connected to Facebook and/or Twitter. Many of them are (great) hitchhikers and travellers I was communicating only on FB before. I wouldn't feel comfortable anyone telling bad word about these people."
+  },
+  {
+    "id": 44,
+    "parent_id": 0,
+    "author": "Tjipetir",
+    "date": "2014-12-29 13:42:37",
+    "text": "A positively brilliant explanation/elaboration - bravo!"
+  },
+  {
+    "id": 46,
+    "parent_id": 0,
+    "author": "Christopher Culver",
+    "date": "2014-12-29 15:11:39",
+    "text": "As someone very much considering participating in the Hitchgathering this year, I felt quite excluded from it because all communication was now happening in a Facebook group. Instead of trying to get Hitchgathering out of Facebook, it would have been nicer if it had never ended up on FB to begin with. Hitchwiki used to have forums that could have served that purpose, but they went down and never came back up. The Rainbow Family offers a good example of how those who like FB can use it if they must, but the \"official\" discussion happens elsewhere, on venues that they control.\n\nSo I think a very high priority now for hitchhiking discussion is to restore a forum, linked to from both TR and Hitchwiki. Why would this have to take a year or two? It would come now at an important time: many people stayed on CS only because it had a very good hitchhiking forum, but they are so fed up with CS now that they are leaving it, and they need another helpful forum out there somewhere."
+  },
+  {
+    "id": 47,
+    "parent_id": 46,
+    "author": "Mikael",
+    "date": "2014-12-29 16:50:57",
+    "text": "Christopher: We want to implement discussions very well and it's not on top of the features we have to implement now, so it (realistically) will take some time. Dealing with that stuff requires help from volunteers as well and we don't have proper structures for that yet, either. I think we'll do some sort of city pages first and start experimenting with discussions there later.\n\nAt Hitchwiki Rémi wanted to implement new forum software already in January-February, but we'll see. If we have time (I doubt).\n\nBuddyPress+Wordpress installation at Hitchwiki is pain to maintain, breaks all the time and is so cumbersome to use that most of the folks don't bother. Discussions started to move to FB due — I believe — because FB is technically very good for it. We're thinking of ditching it completely in 2015, but I'll send separate mails about it to the mailing lists before we decide on anything.\n\nBuddyPress deprecated forum feature so they had to go at the same time at Hitchwiki, too. Discussion groups are still there, eg.: Hitchhiking and Travel partners but they're very ghostly compared to their FB alternatives: Hitchhiking partners worldwide, hitchhiketribe, hitchgathering and many more."
+  },
+  {
+    "id": 143,
+    "parent_id": 0,
+    "author": "beatnick",
+    "date": "2015-02-06 21:26:18",
+    "text": "\"Those not using Facebook won’t miss a thing.\"\n\nExcept uploading a picture?\nI know there's another option to do so (gravatar), but what about the ones who don't have a Wordpress account either?"
+  },
+  {
+    "id": 144,
+    "parent_id": 143,
+    "author": "Mikael",
+    "date": "2015-02-07 00:14:47",
+    "text": "We've got avatar uploading ready and in testing — we've just been busy coding Hitchwiki these weeks and thus didn't find proper time to push it online for you guys to enjoy. Patience! :-)"
+  },
+  {
+    "id": 8694,
+    "parent_id": 0,
+    "author": "Pedro",
+    "date": "2016-02-29 17:14:47",
+    "text": "Thanks for the effort to explain why you're linking trustroots to facebook, but frankly, I didn't buy it. Why on earth should a community who believes in \"freedom, open source and non-profit organizations\" tie their structure to a greedy capitalist enterprise that is precisely the opposite of those three things? By setting up the trustroots community as simply an extension of Facebook, you're being subservient to corporate capitalism. That's not what the world needs, another network dependent on Facebook, like so many others. You're just giving them more power. By the way this is going, in 20 years time the whole world economy will be controlled by Google, Facebook and Amazon. Just read the news. From this month, Amazon will start to sell fresh groceries in the UK. The future is scary and you're not doing anything to prevent it from happening."
+  },
+  {
+    "id": 8695,
+    "parent_id": 8694,
+    "author": "Mikael",
+    "date": "2016-02-29 17:26:29",
+    "text": "Hi Pedro,\n\nThanks for writing.\n\n>another network dependent on Facebook\n\nThis is false — you can perfectly sign up to and use Trustroots without anything to do with Facebook. I challenge you to try. ;-)\n\n>The future is scary and you’re not doing anything to prevent it from happening.\n\nI disagree about us not doing anything. We are actively trying to make it easier for people to use less Facebook."
+  },
+  {
+    "id": 8696,
+    "parent_id": 0,
+    "author": "tjipetir",
+    "date": "2016-02-29 18:20:33",
+    "text": "\"tie their structure to [Facebook]\"\n\nThis isn't the case, in the least. I think BW/Mikael is absolutely on the right track, with regard to making it easy for people to make use of existing/external social media profiles and history. Unless a social network reaches some kind of \"critical mass,\" it will forever be hobbled with insufficient value. And as Mikael has stated repeatedly, the information from other networks is imported only, never exported.\n\n#pragmatic"
+  }
+]

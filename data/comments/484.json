@@ -1,0 +1,16 @@
+[
+  {
+    "id": 465,
+    "parent_id": 0,
+    "author": "libertedeparole",
+    "date": "2015-04-23 13:52:52",
+    "text": "\"We simply cannot sell the assets, they have to be given to another charity if the Foundation ever dissolves.\"\n\nThis is a good measure.\n\nHowever, can the organization sell or transfer any of its assets during normal operation? Can it, for example, sell an unneeded older computer that has been replaced? Can it, for example, sell or \"rent\" its database of members?\n\nPlease understand that no accusations are being made here."
+  },
+  {
+    "id": 470,
+    "parent_id": 465,
+    "author": "Mikael",
+    "date": "2015-04-24 08:31:05",
+    "text": "Hey Libertedeparole,\n\nOur by-laws (articles of association) specifically prohibit selling or transferring the users database (3.1.12), during or after operations.\n\nAll our software is open source; nothing is stopping any entity to set it up somewhere, but that's pretty worthless without members.\n\nThanks for asking!"
+  }
+]

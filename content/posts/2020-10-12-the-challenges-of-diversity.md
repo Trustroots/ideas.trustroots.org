@@ -6,6 +6,7 @@ author: "Noah"
 draft: false
 tags: []
 categories: ["Trustroots"]
+comments_id: 3478
 ---
 
 Online platforms bring together a great lot of people. Like-minded in some ways, but often very different. In a world of bubbles and echo chambers, this is often a breath of fresh air. But it leads to the occasional mortally embarrassing misunderstanding.

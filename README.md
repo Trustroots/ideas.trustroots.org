@@ -72,6 +72,41 @@ For a featured portrait that needs a higher crop, add `image_focus: upper` to
 that post's front matter. This changes only its card thumbnail's focal point;
 the original image and other thumbnails retain their existing framing.
 
+## Archived reader comments
+
+Historical discussion is stored as static data and displayed as read-only text.
+Only publish comments that have been reviewed and explicitly whitelisted for
+the public archive. Keep source exports, backups and review notes in a private
+offline location outside this public repository; never commit their paths or
+contents here.
+
+Put the approved records in `data/comments/<WPpostID>.json`, where `<WPpostID>`
+is the decimal WordPress post ID, as a JSON array using this exact record shape:
+
+```json
+[
+  {
+    "id": 123,
+    "parent_id": 0,
+    "author": "Reader name",
+    "date": "2015-06-05 11:51:14",
+    "text": "Comment text, displayed as plain text."
+  }
+]
+```
+
+Set the matching post's `comments_id` front matter to that integer WordPress
+post ID. `parent_id: 0` marks a top-level comment; replies use their parent's
+comment ID. The site escapes comment text and displays no comment links, forms
+or reply controls. Comments are not added to the search index or RSS feed.
+Reader comments remain their authors' words and are excluded from the article
+CC BY 4.0 license; see [License & credits](content/license.md).
+
+Review source material offline, then copy only the approved records into the
+public data file. To roll back, remove that data file and, if no longer needed,
+remove the post's `comments_id` front matter. No source export or backup is
+needed to build or deploy the site.
+
 ## Content license
 
 Original Trustroots blog text is licensed under **CC BY 4.0**, with author credits

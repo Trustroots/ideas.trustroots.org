@@ -6,6 +6,7 @@ author: "Trustroots"
 draft: false
 tags: []
 categories: ["nostr", "Technical", "Trustroots", "Volunteering"]
+comments_id: 8515
 ---
 
 *tl;dr we want to make sure that Trustroots exists two decades from now and unlock sharing beyond hospitality: rides, bicycles, meals, parties*, etc.

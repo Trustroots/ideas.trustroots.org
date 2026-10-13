@@ -6,6 +6,7 @@ author: "guaka"
 draft: false
 tags: ["Features", "volunteering"]
 categories: ["Feature Updates", "Trustroots"]
+comments_id: 1560
 ---
 
 From today, new members can only join [Trustroots](https://www.trustroots.org/) by invitation.
