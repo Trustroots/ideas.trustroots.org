@@ -4,6 +4,8 @@ date: "2017-02-24T19:02:30+01:00"
 url: "/2017/02/24/applying-trustroots-values/"
 author: "Callum Macdonald"
 draft: false
+tags: []
+categories: ["Trustroots"]
 ---
 
 This is the Trustroots vision statement:

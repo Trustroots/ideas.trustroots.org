@@ -4,6 +4,8 @@ date: "2026-06-07T13:41:34+02:00"
 url: "/2026/06/07/trustroots-picnic-in-berlin-august-2nd-2026/"
 author: "Maretschko"
 draft: false
+tags: []
+categories: ["Newsletter", "Trustroots"]
 ---
 
 We are writing this at the end of our 12th Hackathon in Portugal with the Trustroots team, with an invite to a **summery potluck picnic in Berlin** for the Trustroots community! Let’s hang out, connect over some shared food, BBQ, hear about ideas people are working on, amongst like minded people. We are also very excited to finally celebrate the next step of our community together: the launch of our new Nostroots app.

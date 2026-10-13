@@ -6,6 +6,8 @@ author: "Shawn"
 draft: false
 image: "/images/hosted/c63869e80d86-9a91d-newyear1-1.jpg"
 image_alt: "A traveller celebrating beneath fireworks"
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)

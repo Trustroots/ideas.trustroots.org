@@ -6,6 +6,8 @@ author: "abel"
 draft: false
 image: "/images/2019/11/Barclona_hacking_collective_new-1-1024x687.png"
 image_alt: ""
+tags: ["collective", "free software", "volunteering"]
+categories: ["Trustroots", "Volunteering"]
 ---
 
 Last year winter we organized an [Iberian Collective](https://ideas.trustroots.org/2018/08/27/iberian-collective/) in the south of Spain to activate volunteers and boost the development of [Trustroots](https://www.trustroots.org/). We realized that meeting physically and saving some dates is the best way for us (the volunteers behind the social network) to focus and dedicate time to the Trustroots project.

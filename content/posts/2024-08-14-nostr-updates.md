@@ -4,6 +4,8 @@ date: "2024-08-14T10:58:17+02:00"
 url: "/2024/08/14/nostr-updates/"
 author: "Trustroots"
 draft: false
+tags: []
+categories: ["nostr", "Technical", "Trustroots", "Volunteering"]
 ---
 
 We recently held a weekend hackathon to make notes.trustroots.org even better!

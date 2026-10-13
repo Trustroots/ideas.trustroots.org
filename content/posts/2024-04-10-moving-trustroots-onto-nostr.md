@@ -4,6 +4,8 @@ date: "2024-04-10T11:56:17+02:00"
 url: "/2024/04/10/moving-trustroots-onto-nostr/"
 author: "Trustroots"
 draft: false
+tags: []
+categories: ["nostr", "Technical", "Trustroots", "Volunteering"]
 ---
 
 *tl;dr we want to make sure that Trustroots exists two decades from now and unlock sharing beyond hospitality: rides, bicycles, meals, parties*, etc.

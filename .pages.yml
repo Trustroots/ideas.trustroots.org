@@ -34,6 +34,9 @@ content:
         type: text
       - name: author
         type: string
+      - name: categories
+        type: string
+        list: true
       - name: tags
         type: string
         list: true

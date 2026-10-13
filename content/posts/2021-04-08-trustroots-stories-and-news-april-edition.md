@@ -6,7 +6,12 @@ author: "Shawn"
 draft: false
 image: "/images/hosted/7c7712605083-32499-9c60739a-7413-47dd-a88c-7c420536de96.jpg"
 image_alt: ""
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
+
+> Archive note: Some photos from the original post are currently missing.
+
 
 ![](/images/hosted/7c7712605083-32499-9c60739a-7413-47dd-a88c-7c420536de96.jpg)
 
@@ -87,11 +92,6 @@ All photo's are from Mariha
 
 Since Warmshowers is only for tour bikers and their supporters, we talked about what they need on a platform and how Trustroots can help them out. Bicycle tourers have very minimal needs when traveling: a warm shower, a friendly person to chat over a meal and a safe place to stay for a night is usually more than enough. At the moment you could really help out these Warmshowers refugees by joining the cyclist circle if you would like to welcome them and update in your hosting description if you have safe storage for a bike. Bike tourers usually carry a tent, hammock or bivy with them and it could be useful for other members as well to add aside from a safe bike storage, if you have room for a tent in your garden so they can crash when their phone died and you're not at home. Note however the location displayed on someone profile isn't accurate due to safety reasons. Be sure to contact hosts before traveling and ask for the exact address.
 
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/15138523_10209773803276110_5800979883154034976_o-1.jpeg?ssl=1&resize=1536%2C1536)
-
-[View original image](https://i1.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/148681276_10222580873924872_4743158021841354076_n.jpeg?ssl=1&resize=1080%2C1080)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/15111117_10209773804276135_2169283364924967944_o.jpeg?ssl=1&resize=1536%2C1536)
 
 In the mean time we're working behind the screens to explore features that Warmshowers has which could also be useful for our community, like visibility for people in your own circles only and adding a phone number to your profile. For now we would like to welcome all members who joined us from Warmshowers. May you find safe havens, hospitality and community spirit here on Trustroots like you did for years on Warmshowers.
 
@@ -145,7 +145,7 @@ Bea left Brazil to Europe soon after and trusted her journey each step of the wa
 
 She had been in a relationship that was beginning to turn sour, and when she felt she needed to leave, she turned to the Trustroots network and instantly found a good soul to connect with as she continued her journey.
 
-One night she was with friends around a fire in Portugal just talking. She said in a joking manner that all she wanted to do was simply travel with a horse. Her friend decided to take her seriously, and the next day she gifted Bea a beautiful white horse. Bea packed her things, she named "Mandala" , and she went traveling with her horse.
+One night she was with friends around a fire in Portugal just talking. She said in a joking manner that all she wanted to do was simply travel with a horse. Her friend decided to take her seriously, and the next day she gifted Bea a beautiful white horse. Bea packed her things, she named "Mandala", and she went traveling with her horse.
 
 ![](/images/hosted/c2dd454d800d-1191f-bea1.jpeg)
 
@@ -159,11 +159,6 @@ Currently, Bea is in Bern, Switzerland after a 9 month Covid quarantine in Brazi
 
 To connect with Bea yourself, check out her [Trustroots profile](https://www.trustroots.org/profile/beaveiga), or on IG @[OmFlowYoga](https://www.instagram.com/omflowyoga/).
 
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/bEA3-1.jpeg?ssl=1)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/Bea4-1.jpeg?ssl=1)
-
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/04/Bea5.jpeg?ssl=1)
 
 ---
 

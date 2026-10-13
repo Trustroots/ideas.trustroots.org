@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/2016/03/message-thread-feedback-2016.png"
 image_alt: "message-thread-feedback-2016"
+tags: ["Features"]
+categories: ["Feature Updates", "Trustroots"]
 ---
 
 ![message-thread-feedback-2016](/images/2016/03/message-thread-feedback-2016.png)

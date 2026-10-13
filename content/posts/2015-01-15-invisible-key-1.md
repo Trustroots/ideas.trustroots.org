@@ -4,6 +4,8 @@ date: "2015-01-15T21:51:30+01:00"
 url: "/2015/01/15/invisible-key-1/"
 author: "Carlos"
 draft: false
+tags: ["alternative to couchsurfing"]
+categories: ["Community Stories", "Trustroots"]
 ---
 
 I was very lucky in 2007, someone called me and offered a spacious flat in the center of the city. Two months after I moved in, I already had all the dinners I could have with my old time friends, but still felt it'd be cool to share it with more people, besides, I used to have lots of free time back then. A good friend talked to me about hospitality networks like CouchSurfing or Hospitality Club. Had my doubts, but gave it a try and decided to start hosting. Little I knew how that small internet move would change my life forever.

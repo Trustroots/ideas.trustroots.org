@@ -4,6 +4,8 @@ date: "2025-11-08T13:10:55+01:00"
 url: "/2025/11/08/keep-trustroots-free-forever-ever/"
 author: "Trustroots"
 draft: false
+tags: []
+categories: ["Newsletter", "nostr", "Technical", "Trustroots", "Volunteering"]
 ---
 
 As we announced last year, we’re evolving Trustroots into a new version of itself — one that’s more open, resilient, and user-empowered. This will be enabled by leveraging “nostr”, a decentralized network technology. For now, we call this version of Trustroots, “**Nostroots”**.

@@ -6,6 +6,8 @@ author: "guaka"
 draft: false
 image: "/images/2018/12/UNADJUSTEDNONRAW_thumb_2a7c-1024x768.jpg"
 image_alt: ""
+tags: ["collective", "Iberian collective 2018"]
+categories: ["Trustroots", "Volunteering"]
 ---
 
 mrkvon and banan arrived here a while ago and have been excellent at getting me deeper into the code base. This led to some  cosmetic changes on the site, including edit buttons on some static pages such as the [guide](https://www.trustroots.org/guide).

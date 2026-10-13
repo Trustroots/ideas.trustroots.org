@@ -4,6 +4,8 @@ date: "2018-08-27T10:58:56+02:00"
 url: "/2018/08/27/iberian-collective/"
 author: "guaka"
 draft: false
+tags: []
+categories: ["Trustroots", "Volunteering"]
 ---
 
 tl;dr We're organizing a Trustroots Collective this Autumn somewhere in the South of Portugal or in Andalusia.

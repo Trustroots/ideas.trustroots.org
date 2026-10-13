@@ -6,6 +6,8 @@ author: "Tanja"
 draft: false
 image: "/images/hosted/39ebd5b62d58-886e0-screenshot-2021-03-14-at-21.56.21.png"
 image_alt: ""
+tags: []
+categories: ["Feature Updates", "Trustroots"]
 ---
 
 Hallo, Hola, Hello, Salut, Ciao,
@@ -24,7 +26,7 @@ Please note that this is not an automatic translation tool. Therefore everything
 
 Here are also some numbers on translation progress:
 
-[Translation status](https://hosted.weblate.org/widgets/trustroots/-/multi-auto.svg)
+![Trustroots translation progress](https://hosted.weblate.org/widgets/trustroots/-/multi-auto.svg)
 
 Note that 100% refers to portion of website that currently *can* be translated. Some parts of Trustroots are still on little bit older technology and are not included in translation tool. To [help](https://github.com/Trustroots/trustroots/issues/1334) us get over finish line, join our development team!
 

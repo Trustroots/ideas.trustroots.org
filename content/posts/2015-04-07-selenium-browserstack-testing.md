@@ -4,6 +4,8 @@ date: "2015-04-07T12:05:29+02:00"
 url: "/2015/04/07/selenium-browserstack-testing/"
 author: "guaka"
 draft: false
+tags: ["Features", "free software", "volunteering"]
+categories: ["Technical", "Trustroots"]
 ---
 
 [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)

@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/2015/08/trustroots-picnic-berlin-2015-e1439159651109-300x228.jpg"
 image_alt: ""
+tags: ["berlin", "collective"]
+categories: ["Trustroots", "Volunteering"]
 ---
 
 [![](/images/2015/08/trustroots-picnic-berlin-2015-e1439159651109-300x228.jpg)](/wp-content/uploads/2015/08/trustroots-picnic-berlin-2015-e1439159651109.jpg)

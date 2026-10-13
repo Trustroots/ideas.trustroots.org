@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/2016/06/tr-hw-install-party-2016-small.png"
 image_alt: "tr-hw-install-party-2016-small"
+tags: ["berlin"]
+categories: ["Technical", "Trustroots"]
 ---
 
 ![tr-hw-install-party-2016-small](/images/2016/06/tr-hw-install-party-2016-small.png)

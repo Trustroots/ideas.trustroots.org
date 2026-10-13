@@ -6,7 +6,12 @@ author: "Trustroots"
 draft: false
 image: "/images/hosted/ea4493b7d693-5dc74-img_5403-edited-1.jpg"
 image_alt: "Photo from the end-of-year community newsletter"
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
+
+> Archive note: Some photos from the original post are currently missing.
+
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)
 
@@ -115,7 +120,6 @@ Love these traditional Carousels
 
 #### The Traveling Psychology Advisor on Tour
 
-[View original image](https://www.the-tpa.com/images/TPA-p-500.png)
 
 by [Iván F](https://www.trustroots.org/profile/vantje)
 
@@ -139,7 +143,7 @@ Being nomadic, Jens move around with a modified former boat transporter Mercedes
 
 When asked about how long the TPA will be going on, he said that it really depends. Currently, it has been funded from his own pocket but the continuity of the project relys on sponsorship and the donations he receives. He would like to continue the TPA for several years, going through Europe, across the Balkans, and if possible extending to Iran, India, Thailand or maybe even Indonesia, where he once did backpacked..
 
-Jens is currently touring through SouthEastern Spain and making a stop over in the region of Murcia. He has been on the road for a couple months now accompanied by 8 months old Briard named Baloo. The first two months of the project, he had over a hundred persons signed up for appointments through meeting in person and online sessions. Up to this point, Jens never had any difficult experiences although at times it's a challenge to find parking spot for his house and the constant need of decent internet connection since counselling are also given online for those who could not meet in person. For example people from the other side of the world as far as United States, Japan, India and others are having consultations virtually with him and for Jens himself , all the experiences have been positive.
+Jens is currently touring through SouthEastern Spain and making a stop over in the region of Murcia. He has been on the road for a couple months now accompanied by 8 months old Briard named Baloo. The first two months of the project, he had over a hundred persons signed up for appointments through meeting in person and online sessions. Up to this point, Jens never had any difficult experiences although at times it's a challenge to find parking spot for his house and the constant need of decent internet connection since counselling are also given online for those who could not meet in person. For example people from the other side of the world as far as United States, Japan, India and others are having consultations virtually with him and for Jens himself, all the experiences have been positive.
 
 He describes his best moment is when each person he meets appreciates the help he could offer. Even though he didn't really plan where he's heading to next, he takes every possibility on what option is available and whatever life throws at his feet. Until then, he will continue to help as many people as possible.
 

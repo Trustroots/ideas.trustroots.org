@@ -6,6 +6,8 @@ author: "Shawn"
 draft: false
 image: "/images/hosted/cd0ccf7d7db1-7f81c-1.jpg"
 image_alt: "A touring cyclist outside a bicycle workshop"
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
 ---
@@ -128,7 +130,7 @@ Want to visit and volunteer in Bulgaria with Rhonda & Ryan? Message her on her [
 
 "*A universal thing unites all of us : the desire to be free and happy. These are the sensations I feel every moment, backpack on my shoulders.* *This picture represents it all at once.*
 
-*To live alone or with others, in almost autonomy, what happiness! Bath in rivers, lakes, waterfalls ; warm your body next to the fire or by the rays of sunshine ; let yourself be caressed by the wind and by this soft and soothing atmosphere, which nothing can exceed and replace.*
+*To live alone or with others, in almost autonomy, what happiness! Bath in rivers, lakes, waterfalls; warm your body next to the fire or by the rays of sunshine; let yourself be caressed by the wind and by this soft and soothing atmosphere, which nothing can exceed and replace.*
 
 *Beyond all of this, one of the most important parts is the travel itself. Any hitchhiker will be able to confirm that it’s an extraordinary and exciting social adventure. Meeting all these caring people is an exceptional boost !*"
 

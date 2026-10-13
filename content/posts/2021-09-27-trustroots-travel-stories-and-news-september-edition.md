@@ -6,7 +6,12 @@ author: "Trustroots"
 draft: false
 image: "/images/hosted/c69cd56c0dc9-0935d-ed-and-his-guest-yuichiro.jpeg"
 image_alt: "A host and guest sharing a meal outdoors"
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
+
+> Archive note: Some photos from the original post are currently missing.
+
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)
 
@@ -77,7 +82,7 @@ Bitterroot Flower © Wayne Chadwick on [Flickr](https://www.flickr.com/photos/nw
 
 When it comes to hosting, Ed hasn't had a bad experience yet. For Ed, it’s fun to hear stories and learn about other countries, but mostly he likes to see his guests having a good time on their journey. *"If you have a place to host people, it’s important to do it. You will have an impact on so many people by being that one extra part of their journey. You become a part of a network, making it easier to travel through the world without money. I think it adds something to your own life and your home too,"* he added.
 
-If you ever are passing in South Missoula in the States (Editors note: Only 3 hours drive to Glacier or Yellowstone national parks) , you can reach Ed on [Trustroots](https://www.trustroots.org/profile/percypl3z). You can also follow Ed on Instagram **[@ep_cloudview](https://www.instagram.com/ep_cloudview/)**
+If you ever are passing in South Missoula in the States (Editors note: Only 3 hours drive to Glacier or Yellowstone national parks), you can reach Ed on [Trustroots](https://www.trustroots.org/profile/percypl3z). You can also follow Ed on Instagram **[@ep_cloudview](https://www.instagram.com/ep_cloudview/)**
 
 ![](/images/hosted/c69cd56c0dc9-0935d-ed-and-his-guest-yuichiro.jpeg)
 
@@ -113,9 +118,6 @@ Then publish it ! You can also reach out to members individually sharing the eve
 
 ![](/images/hosted/372a1ac6f5d6-871c1-meetup4-1.png)
 
-[View original image](https://i1.wp.com/ideas.trustroots.org/wp-content/uploads/2021/09/UNADJUSTEDNONRAW_thumb_33b.jpg?ssl=1)
-
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/09/Meetup7-1024x768.jpg?ssl=1)
 
 Did you have a great meet up? Or are you organizing a weekly event and would like to highlight it in the Newsletter/blog? Let us Know! *Share@trustroots.org*
 
@@ -132,17 +134,9 @@ But the beauty of hitchhiking outweighs the negatives. All the kind, kind people
 
 *Follow Lisa on Instagram* [**@aimless.travels**](https://www.instagram.com/aimless.travels/)
 
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/218937536_338047007978884_28727413005100638_n.jpg?ssl=1)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/218832323_342739460901048_3267791247241538101_n.jpg?ssl=1)[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/218050197_541661090310511_7680311764213739450_n.jpg?ssl=1)
-
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/218150486_255632023033310_7034099572798819095_n.jpg?ssl=1)
 
 ---
 
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/238745763_877490089524292_4967716093243906704_n.jpg?ssl=1)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/239428893_982340289189748_5913862274539167412_n.jpg?ssl=1)
 
 **CRAZY VILLA PARTY**
 
@@ -164,13 +158,6 @@ It was the perfect opportunity for us to learn more about Finnish culture, their
 
 *Follow Karen & Ruben on Instagram* [**@karutravellers**](https://www.instagram.com/karutravellers/)
 
-[View original image](https://i1.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/Karu-Finland.jpg?ssl=1)
-
-[View original image](https://i1.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/Karu-Finland-2.jpg?ssl=1)[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/Karu-Finland-3.jpg?ssl=1)
-
-[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/Karu-Finland-4.jpg?ssl=1)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/08/Karu-Finland-5.jpg?ssl=1)
 
 ---
 
@@ -202,9 +189,6 @@ In the end we spent 3 days together helping each other, fixing stuff, watching a
 
 Walking with a backpack, especially in the mountains. Carrying your essential equipment with a few friends and sewing connections with villages or cities for water, food, dumpsterdiving and other realities. Even when hitchhiking, I really enjoy walking some parts, moving to a different point on foot. When walking an entire day, it happens that the body develops a crystal clear memory of the movements and the mind gravitates around essential priorities. In this sense, travelling it's not often relaxing. It is rather awakening, yet something that feeds me.
 
-[View original image](https://i1.wp.com/ideas.trustroots.org/wp-content/uploads/2021/09/Edoardo-2.jpg?ssl=1)
-
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/09/Edoardo-1.jpg?ssl=1)
 
 **Trustroots in the Media**
 

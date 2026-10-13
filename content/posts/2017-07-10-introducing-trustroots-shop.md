@@ -6,6 +6,8 @@ author: "Carlos"
 draft: false
 image: "/images/2017/07/trustroots-shop.png"
 image_alt: ""
+tags: []
+categories: ["Foundation", "Trustroots"]
 ---
 
 We have just launched [**a shop for Trustroots**](https://shop.trustroots.org/) t-shirts and apparel — something our members have been asking for a while now.

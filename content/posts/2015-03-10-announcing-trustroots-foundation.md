@@ -6,6 +6,8 @@ author: "guaka"
 draft: false
 image: "/images/2015/03/tr-foundation-300x300.jpg"
 image_alt: "the Trustroots Foundation"
+tags: []
+categories: ["Foundation", "Trustroots"]
 ---
 
 ![the Trustroots Foundation](/images/2015/03/tr-foundation-300x300.jpg "the Trustroots Foundation")

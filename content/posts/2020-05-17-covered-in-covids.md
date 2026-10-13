@@ -6,6 +6,8 @@ author: "Julien"
 draft: false
 image: "/images/2020/05/shopping-cart-in-the-snow-300x271.jpg"
 image_alt: ""
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
 Dear friend,

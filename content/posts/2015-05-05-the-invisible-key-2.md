@@ -4,6 +4,8 @@ date: "2015-05-05T09:42:36+02:00"
 url: "/2015/05/05/the-invisible-key-2/"
 author: "Carlos"
 draft: false
+tags: []
+categories: ["Community Stories", "Trustroots"]
 ---
 
 -

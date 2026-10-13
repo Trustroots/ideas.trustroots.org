@@ -6,6 +6,8 @@ author: "guaka"
 draft: false
 image: "/images/2015/02/long-road-478155_1280-300x199.jpg"
 image_alt: "long-road-478155_1280"
+tags: []
+categories: ["Trustroots"]
 ---
 
 This is a tiny post to help people who are trying to find us under other words.

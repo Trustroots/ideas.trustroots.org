@@ -4,6 +4,8 @@ date: "2025-04-22T11:11:30+02:00"
 url: "/2025/04/22/nostroots-first-apk-and-progress-report/"
 author: "Trustroots"
 draft: false
+tags: []
+categories: ["nostr", "Technical", "Trustroots", "Volunteering"]
 ---
 
 tl;dr:

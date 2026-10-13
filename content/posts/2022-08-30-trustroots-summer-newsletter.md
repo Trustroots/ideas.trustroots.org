@@ -7,6 +7,8 @@ draft: false
 image: "/images/hosted/ef486068c4dd-10518-adrian1.jpg"
 image_focus: upper
 image_alt: "A traveller resting beside a packed backpack"
+tags: []
+categories: ["Newsletter", "Trustroots"]
 ---
 
 Contents

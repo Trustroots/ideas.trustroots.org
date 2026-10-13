@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/2015/04/tr-5k.jpg"
 image_alt: "Trustroots 5K"
+tags: []
+categories: ["Trustroots"]
 ---
 
 [![Trustroots 5K](/images/2015/04/tr-5k.jpg)](https://www.trustroots.org/#!/statistics)

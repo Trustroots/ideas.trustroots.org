@@ -4,6 +4,8 @@ date: "2021-12-09T21:41:17+01:00"
 url: "/2021/12/09/trustroots-hackathon-this-weekend/"
 author: "Shawn"
 draft: false
+tags: []
+categories: ["Trustroots", "Volunteering"]
 ---
 
 **This coming weekend there is another Hackathon happening!** For three days and nights our team will be devoting as much time as possible working on projects like our react migration, iOS application and i18N translations.

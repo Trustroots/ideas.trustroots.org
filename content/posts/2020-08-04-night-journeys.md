@@ -6,6 +6,8 @@ author: "Trustroots"
 draft: false
 image: "/images/2020/07/Pixelised-224x300.jpg"
 image_alt: ""
+tags: []
+categories: ["Community Stories", "Trustroots"]
 ---
 
 ## Community Stories, Vol. II

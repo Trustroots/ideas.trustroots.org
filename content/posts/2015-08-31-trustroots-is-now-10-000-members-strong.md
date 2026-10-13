@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/2015/08/trustroots-10k-newsletter-1024x507.jpg"
 image_alt: "trustroots-10k-newsletter"
+tags: []
+categories: ["Newsletter", "Trustroots"]
 ---
 
 ![trustroots-10k-newsletter](/images/2015/08/trustroots-10k-newsletter-1024x507.jpg)

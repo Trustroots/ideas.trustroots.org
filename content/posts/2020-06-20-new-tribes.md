@@ -6,6 +6,8 @@ author: "Martin A."
 draft: false
 image: "/images/2020/06/tribes-06-2020-1024x463.png"
 image_alt: "Some of the new tribes"
+tags: []
+categories: ["Trustroots"]
 ---
 
 In the past couple of days we have been adding new [tribes](https://www.trustroots.org/tribes)\* to Trustroots. In total there are 15 additions, based on the most frequent requests we've gotten from yourselves.

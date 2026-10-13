@@ -6,6 +6,8 @@ author: "guaka"
 draft: false
 image: "/images/2015/04/Screen-Shot-2015-04-23-at-15.00.05-300x176.png"
 image_alt: "Sofa, so good"
+tags: ["berlin", "volunteering"]
+categories: ["Foundation", "Trustroots"]
 ---
 
 [![Sofa, so good](/images/2015/04/Screen-Shot-2015-04-23-at-15.00.05-300x176.png)](/wp-content/uploads/2015/04/FAS-170415-V3_Sofasurf.pdf)

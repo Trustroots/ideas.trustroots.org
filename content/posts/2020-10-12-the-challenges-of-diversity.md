@@ -4,6 +4,8 @@ date: "2020-10-12T22:24:35+02:00"
 url: "/2020/10/12/the-challenges-of-diversity/"
 author: "Noah"
 draft: false
+tags: []
+categories: ["Trustroots"]
 ---
 
 Online platforms bring together a great lot of people. Like-minded in some ways, but often very different. In a world of bubbles and echo chambers, this is often a breath of fresh air. But it leads to the occasional mortally embarrassing misunderstanding.

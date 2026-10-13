@@ -55,13 +55,14 @@ def check(args):
     require("24 May 2020" not in text, "Historical comparison was published instead of the update")
     require("{{<" not in text, "Unrendered Hugo shortcode")
     counts = Counter(image.get("src") for image in page.images)
-    for filename, alt in (("trustroots-symbol.svg", "Trustroots logo"),
-                          ("bewelcome.svg", "BeWelcome logo"),
-                          ("couchers.png", "Couchers.org logo")):
+    for filename, label in (("trustroots-tree-white.svg", "Trustroots"),
+                          ("bewelcome.svg", "BeWelcome"),
+                          ("couchers.png", "Couchers.org")):
         src = prefix + "brand/" + filename
         require(counts[src] == 2, "Logo missing from a comparison table: " + filename)
-        require(all(image.get("alt") == alt for image in page.images if image.get("src") == src),
-                "Missing accessible logo label: " + filename)
+        require(label in text, "Missing readable platform name: " + label)
+        require(all("alt" in image and image["alt"] in ("", None) for image in page.images if image.get("src") == src),
+                "Logos beside visible platform names should have empty alt text: " + filename)
         data = read("brand/" + filename)
         require(data.startswith(b"\x89PNG\r\n\x1a\n") if filename.endswith(".png") else b"<svg" in data,
                 "Logo URL does not return an image: " + filename)

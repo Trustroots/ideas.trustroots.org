@@ -6,6 +6,8 @@ author: "Mikael"
 draft: false
 image: "/images/hosted/71a1357960a5-6a5d7-screenshot-2021-04-03-at-16.24.27.png"
 image_alt: ""
+tags: []
+categories: ["Feature Updates", "Trustroots"]
 ---
 
 **From today on, you can share and write about your experiences with other Trustroots members!**

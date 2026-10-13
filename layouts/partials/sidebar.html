@@ -17,6 +17,7 @@
     <h2>Recent posts</h2>
     <ul class="recent-posts">{{ range first 5 $posts }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></li>{{ end }}</ul>
   </section>
+  <section class="sidebar-panel"><h2>Categories</h2><ul class="archive-years">{{ range site.Taxonomies.categories.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}"><span>{{ .Page.LinkTitle }}</span><span class="archive-count">{{ .Count }}</span></a></li>{{ end }}</ul><a class="browse-tags" href="{{ "tags/" | relURL }}">Browse all tags →</a></section>
   <section class="sidebar-panel">
     <h2>Browse the archive</h2>
     <ul class="archive-years">{{ range $posts.GroupByDate "2006" }}<li><a href="{{ printf "archive/%s/" .Key | relURL }}"><span>{{ .Key }}</span><span class="archive-count">{{ len .Pages }}</span></a></li>{{ end }}</ul>

@@ -6,6 +6,8 @@ author: "guaka"
 draft: false
 image: "/images/2015/07/berlin-kreuzberg-660880_1280-300x225.jpg"
 image_alt: "Kreuzberg, Berlin"
+tags: []
+categories: ["Foundation", "Trustroots", "Volunteering"]
 ---
 
 ![Kreuzberg, Berlin](/images/2015/07/berlin-kreuzberg-660880_1280-300x225.jpg)

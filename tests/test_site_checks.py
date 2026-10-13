@@ -20,7 +20,7 @@ class SiteChecks(unittest.TestCase):
         for filename in (
             "comparison-of-hospitality-exchange-platforms/index.html",
             "2025/11/08/keep-trustroots-free-forever-ever/index.html",
-            "brand/trustroots-symbol.svg", "brand/bewelcome.svg",
+            "brand/trustroots-tree-white.svg", "brand/bewelcome.svg",
             "brand/couchers.png", "index.xml",
         ):
             target = self.root / filename

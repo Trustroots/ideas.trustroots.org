@@ -6,7 +6,12 @@ author: "Mikael"
 draft: false
 image: "/images/2021/02/screenshot-2021-02-06-at-18.13.03.png"
 image_alt: ""
+tags: []
+categories: ["Feature Updates", "Newsletter", "Trustroots"]
 ---
+
+> Archive note: Some photos from the original post are currently missing.
+
 
 Let's see if this becomes a habit, but the idea is to highlight all the small improvements and continuous efforts that go on Trustroots, thanks to [all our volunteers](https://www.trustroots.org/team)! 👏
 
@@ -18,7 +23,6 @@ Already visited dots are now a bit transparent, and currently selected offer is 
 
 ![](/images/2021/02/screenshot-2021-02-06-at-18.13.03.png)
 
-[View original image](https://i0.wp.com/ideas.trustroots.org/wp-content/uploads/2021/02/Screenshot-2021-02-06-at-16.52.33.png?ssl=1)[View original image](https://i2.wp.com/ideas.trustroots.org/wp-content/uploads/2021/02/Screenshot-2021-02-06-at-18.34.36.png?ssl=1)
 
 Before / After
 

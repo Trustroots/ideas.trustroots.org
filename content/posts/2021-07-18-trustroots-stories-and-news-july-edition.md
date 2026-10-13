@@ -6,6 +6,8 @@ author: "Shawn"
 draft: false
 image: "/images/hosted/a879f08a816b-d1bb1-steph.jpg"
 image_alt: ""
+tags: []
+categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
 **Contents:**

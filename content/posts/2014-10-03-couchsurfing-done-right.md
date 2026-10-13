@@ -4,6 +4,8 @@ date: "2014-10-03T16:38:26+02:00"
 url: "/2014/10/03/couchsurfing-done-right/"
 author: "Callum Macdonald"
 draft: false
+tags: ["alternative to couchsurfing"]
+categories: ["Trustroots"]
 ---
 
 Way back when, in the dim and distant past, when smartphones were still only a dream...

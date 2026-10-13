@@ -4,6 +4,8 @@ date: "2020-06-05T17:25:19+02:00"
 url: "/2020/06/05/how-is-trustroots-different-from-couchsurfing/"
 author: "Trustroots"
 draft: false
+tags: []
+categories: ["Foundation", "Trustroots"]
 ---
 
 ## The elephant in the room

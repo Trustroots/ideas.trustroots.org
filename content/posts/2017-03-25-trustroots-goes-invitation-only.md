@@ -4,6 +4,8 @@ date: "2017-03-25T17:56:42+01:00"
 url: "/2017/03/25/trustroots-goes-invitation-only/"
 author: "guaka"
 draft: false
+tags: ["Features", "volunteering"]
+categories: ["Feature Updates", "Trustroots"]
 ---
 
 From today, new members can only join [Trustroots](https://www.trustroots.org/) by invitation.

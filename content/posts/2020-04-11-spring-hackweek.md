@@ -6,6 +6,8 @@ author: "Dario"
 draft: false
 image: "/images/2020/04/2020-04-11-hackweek.png"
 image_alt: ""
+tags: ["collective", "free software", "hackweek", "volunteering"]
+categories: ["Trustroots"]
 ---
 
 With a pandemic rolling over Europe and borders being closed, it might not be the time for traveling right now. But we think it's a good time for working on a traveler's network and pushing it to the next level.
