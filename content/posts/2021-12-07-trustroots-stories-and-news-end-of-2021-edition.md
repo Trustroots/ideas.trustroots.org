@@ -10,8 +10,6 @@ tags: []
 categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
-> Archive note: Some photos from the original post are currently missing.
-
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)
 

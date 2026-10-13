@@ -11,8 +11,6 @@ categories: ["Feature Updates", "Newsletter", "Trustroots"]
 comments_id: 4343
 ---
 
-> Archive note: Some photos from the original post are currently missing.
-
 
 Let's see if this becomes a habit, but the idea is to highlight all the small improvements and continuous efforts that go on Trustroots, thanks to [all our volunteers](https://www.trustroots.org/team)! 👏
 
@@ -25,7 +23,11 @@ Already visited dots are now a bit transparent, and currently selected offer is 
 ![](/images/2021/02/screenshot-2021-02-06-at-18.13.03.png)
 
 
-Before / After
+### Before the search update
+
+![Search interface before the update](/images/recovered/screenshot-2021-02-06-at-16.52.33.png)
+
+*The original “after” comparison screenshot is unavailable.*
 
 ## Other
 
