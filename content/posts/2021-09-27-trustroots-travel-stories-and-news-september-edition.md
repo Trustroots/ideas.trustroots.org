@@ -4,8 +4,8 @@ date: "2021-09-27T18:58:50+02:00"
 url: "/2021/09/27/trustroots-travel-stories-and-news-september-edition/"
 author: "Trustroots"
 draft: false
-image: "/images/hosted/331d90808c4a-dce77-trtree-1.jpg"
-image_alt: ""
+image: "/images/hosted/c69cd56c0dc9-0935d-ed-and-his-guest-yuichiro.jpeg"
+image_alt: "A host and guest sharing a meal outdoors"
 ---
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)

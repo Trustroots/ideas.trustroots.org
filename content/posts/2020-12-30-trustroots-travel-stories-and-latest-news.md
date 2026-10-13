@@ -4,8 +4,8 @@ date: "2020-12-30T16:45:49+01:00"
 url: "/2020/12/30/trustroots-travel-stories-and-latest-news/"
 author: "Shawn"
 draft: false
-image: "/images/hosted/331d90808c4a-dce77-trtree-1.jpg"
-image_alt: ""
+image: "/images/hosted/c63869e80d86-9a91d-newyear1-1.jpg"
+image_alt: "A traveller celebrating beneath fireworks"
 ---
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)

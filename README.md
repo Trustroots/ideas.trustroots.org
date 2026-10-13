@@ -64,3 +64,14 @@ retained on each post. The comparison page retains its original CC BY 4.0 notice
 See [LICENSE](LICENSE) for the legal terms and [License & credits](content/license.md)
 for scope and attribution instructions. Third-party material and software source
 code are not included in this text license.
+
+## Custom domain
+
+The intended domain is `ideas.trustroots.org` (also recorded in `static/CNAME`).
+For this GitHub Actions deployment, GitHub requires the custom domain in
+Settings → Pages; the CNAME file alone does not configure it. Cloudflare needs
+a DNS-only CNAME named `ideas` pointing to `trustroots.github.io` (without a
+repository path), replacing the old record for this hostname. Configure the
+GitHub Pages domain before changing DNS, then deploy with
+`base_url=https://ideas.trustroots.org/` and enforce HTTPS when the certificate
+is ready. Until cutover, the project-site preview continues to use its own URL.

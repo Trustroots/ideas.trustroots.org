@@ -4,8 +4,6 @@ date: "2015-04-07T12:05:29+02:00"
 url: "/2015/04/07/selenium-browserstack-testing/"
 author: "guaka"
 draft: false
-image: "/images/2015/04/browserstack-logo-300x65.png"
-image_alt: "Browserstack"
 ---
 
 [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)

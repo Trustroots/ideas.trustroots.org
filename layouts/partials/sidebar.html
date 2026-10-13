@@ -1,0 +1,17 @@
+{{ $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse }}
+<aside class="blog-sidebar" aria-label="About the blog and archives">
+  <section class="sidebar-panel sidebar-about">
+    <h2>Trustroots Ideas</h2>
+    <p>Stories, updates and ideas from the people building Trustroots.</p>
+    <a href="https://www.trustroots.org/about">More about Trustroots →</a>
+  </section>
+  <section class="sidebar-panel">
+    <h2>Recent posts</h2>
+    <ul class="recent-posts">{{ range first 5 $posts }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></li>{{ end }}</ul>
+  </section>
+  <section class="sidebar-panel">
+    <h2>Browse the archive</h2>
+    <ul class="archive-years">{{ range $posts.GroupByDate "2006" }}<li><a href="{{ printf "archive/%s/" .Key | relURL }}"><span>{{ .Key }}</span><span class="archive-count">{{ len .Pages }}</span></a></li>{{ end }}</ul>
+  </section>
+  <section class="sidebar-panel sidebar-subscribe"><h2>Keep in touch</h2><p>Follow new posts in your feed reader.</p><a href="{{ "index.xml" | relURL }}">Subscribe via RSS →</a></section>
+</aside>

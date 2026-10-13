@@ -4,8 +4,8 @@ date: "2021-12-07T07:09:21+01:00"
 url: "/2021/12/07/trustroots-stories-and-news-end-of-2021-edition/"
 author: "Trustroots"
 draft: false
-image: "/images/hosted/331d90808c4a-dce77-trtree-1.jpg"
-image_alt: ""
+image: "/images/hosted/ea4493b7d693-5dc74-img_5403-edited-1.jpg"
+image_alt: "Photo from the end-of-year community newsletter"
 ---
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)

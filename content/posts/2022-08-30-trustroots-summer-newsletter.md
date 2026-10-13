@@ -4,8 +4,8 @@ date: "2022-08-30T17:04:32+02:00"
 url: "/2022/08/30/trustroots-summer-newsletter/"
 author: "Shawn"
 draft: false
-image: "/images/hosted/6865b1890f02-e4134-tree-1.jpg"
-image_alt: ""
+image: "/images/hosted/ef486068c4dd-10518-adrian1.jpg"
+image_alt: "A traveller resting beside a packed backpack"
 ---
 
 Contents

@@ -1,13 +1,14 @@
 {{ define "hero" }}
 <section class="home-hero" aria-labelledby="hero-title">
-  <div class="hero-inner"><img class="hero-symbol" src="{{ "brand/trustroots-symbol.svg" | relURL }}" alt="" width="74" height="92"><p class="hero-kicker">Trustroots Ideas</p><h1 id="hero-title">Sharing stories.<br>Growing connections.</h1><p>From the people building a world of trust and adventure.</p></div>
+  <div class="hero-inner"><img class="hero-symbol" src="{{ "brand/trustroots-symbol.svg" | relURL }}" alt="" width="74" height="92"><p class="hero-kicker">Trustroots Ideas</p><h1 id="hero-title">Stories from our community.</h1><p>Sharing ideas, growing connections, and building a world of trust and adventure.</p></div>
   <p class="photo-credit">Photo: <a href="http://www.containstraces.blogspot.com/">Andrew W Bugelli</a></p>
 </section>
 {{ end }}
 {{ define "main" }}
-<section class="intro"><h2>From our community</h2>{{ .Content }}</section>
+<div class="blog-layout"><section class="blog-feed" aria-label="Latest posts">
 {{ $posts := where site.RegularPages "Section" "posts" }}
 {{ $pager := .Paginate $posts.ByDate.Reverse }}
 <div class="post-grid">{{ range $pager.Pages }}{{ partial "post-card.html" . }}{{ else }}<p>Posts will appear here as they are published.</p>{{ end }}</div>
 {{ template "_internal/pagination.html" . }}
+</section>{{ partial "sidebar.html" . }}</div>
 {{ end }}

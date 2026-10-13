@@ -4,8 +4,8 @@ date: "2021-02-26T08:32:05+01:00"
 url: "/2021/02/26/trustroots-travel-stories-and-news-february-2021/"
 author: "Shawn"
 draft: false
-image: "/images/hosted/331d90808c4a-dce77-trtree-1.jpg"
-image_alt: ""
+image: "/images/hosted/cd0ccf7d7db1-7f81c-1.jpg"
+image_alt: "A touring cyclist outside a bicycle workshop"
 ---
 
 ---

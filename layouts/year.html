@@ -1,0 +1,5 @@
+{{ define "main" }}
+<div class="blog-layout"><section class="blog-feed"><h1>{{ .Title }}</h1>
+<div class="post-grid">{{ range (where site.RegularPages "Section" "posts").ByDate.Reverse }}{{ if eq (.Date.Format "2006") (printf "%v" $.Params.year) }}{{ partial "post-card.html" . }}{{ end }}{{ end }}</div>
+</section>{{ partial "sidebar.html" . }}</div>
+{{ end }}
