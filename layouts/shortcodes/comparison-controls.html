@@ -1,0 +1,10 @@
+<details class="comparison-options" hidden>
+  <summary>Compare more platforms</summary>
+  <p>Opening this shows Servas, Host a Sister and HospitalityClub alongside Trustroots and Couchers.org. Choose any combination below; closing restores the main five.</p>
+  <fieldset><legend>Platforms to compare</legend>
+  {{ range slice (dict "id" "cs" "name" "Couchsurfing") (dict "id" "bw" "name" "BeWelcome") (dict "id" "tr" "name" "Trustroots") (dict "id" "co" "name" "Couchers.org") (dict "id" "ws" "name" "Warmshowers") (dict "id" "servas" "name" "Servas") (dict "id" "has" "name" "Host a Sister") (dict "id" "hc" "name" "HospitalityClub (archive)") }}
+  <label><input type="checkbox" value="{{ .id }}"{{ if in (slice "cs" "bw" "tr" "co" "ws") .id }} checked{{ end }}> {{ .name }}</label>
+  {{ end }}</fieldset>
+</details>
+<p class="comparison-status" role="status" aria-live="polite" hidden></p>
+<noscript><p>All eight platforms are shown below. Scroll each table sideways to compare them.</p></noscript>

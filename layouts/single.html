@@ -21,3 +21,5 @@
 {{ end }}</article>
 {{ if $withSidebar }}{{ partial "sidebar.html" . }}</div>{{ end }}
 {{ end }}
+
+{{ define "scripts" }}{{ if .HasShortcode "comparison-controls" }}{{ $js := resources.FromString "js/comparison.js" (readFile "static/js/comparison.js") | minify | fingerprint }}<script src="{{ $js.RelPermalink }}" defer></script>{{ end }}{{ end }}

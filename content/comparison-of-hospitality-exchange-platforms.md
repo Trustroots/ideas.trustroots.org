@@ -19,29 +19,33 @@ Dots reflect our [values](https://www.trustroots.org/about): 🟢 available or a
 - **CO** — [Couchers.org](https://couchers.org/) — *"Free forever. Community-led. Non-profit."*
 - **WS** — [Warmshowers](https://www.warmshowers.org/) — *"A community for touring cyclists and hosts"*
 
-| Characteristic | {{< platform-logo "cs" >}} | {{< platform-logo "bw" >}} | {{< platform-logo "tr" >}} | {{< platform-logo "co" >}} | {{< platform-logo "ws" >}} |
-| --- | --- | --- | --- | --- | --- |
-| Founded / launched | 2003 incorporation; for-profit transition in 2011 | [February 2007](https://bewelcome.org/press-information) | [December 2014]({{< relref "posts/2014-12-23-introducing-trustroots.md" >}}) | [2020](https://couchers.org/blog/2024/06/12/where-we-are-and-where-we-are-going) | [1993; website in 2005](https://www.warmshowers.org/about-warmshowers/) |
-| Organisation | 🔴 US [for-profit company](https://www.theguardian.com/travel/2011/aug/26/couchsurfing-investment-budget-travel) | 🟢 French [non-profit BeVolunteer](https://bewelcome.org/about) | 🟢 UK [non-profit Trustroots Foundation](https://www.trustroots.org/faq/foundation) | 🟢 US [501(c)(3) non-profit](https://couchers.org/blog/2022/01/20/couchers-becomes-501c3-nonprofit), Couchers, Inc. | 🟢 US [charitable non-profit](https://www.warmshowers.org/about-warmshowers/) |
-| Members (total, not necessarily active) | 25 million+ | [289,793](https://bewelcome.org/) | [145,583](https://www.trustroots.org/api/statistics) | [56,000](https://couchers.org/landing) | [200,000+](https://www.warmshowers.org/) |
-| Members offering hosting | ⚪ Not verified | ⚪ Not verified | [22,126](https://www.trustroots.org/api/statistics): 12,380 yes; 9,746 maybe | ⚪ Not verified | ⚪ Not verified |
-| Price | 🔴 Paid subscription; current price shown after onboarding | 🟢 [$0 — free; donation-funded](https://bewelcome.org/faq) | 🟢 [$0 — free]({{< relref "posts/2025-11-08-keep-trustroots-free-forever-ever.md" >}}) | 🟢 [$0 — free](https://couchers.org/mission) | 🟡 [US$30 one-time registration](https://www.warmshowers.org/faq/), plus a monthly or annual app subscription for cyclists; host-only app mode has no extra subscription |
-| Open Source | ⚪ Current platform source not verified | 🟢 [Yes, GPL](https://github.com/BeWelcome/rox) | 🟢 [Yes, AGPL-3.0](https://github.com/Trustroots/trustroots) | 🟢 [Yes, MIT](https://github.com/Couchers-org/couchers) | ⚪ [Legacy Drupal source is public](https://github.com/warmshowers/Warmshowers.org/); current platform not verified |
-| Development | Platform rebuilt in 2026; current stack not verified | PHP / Symfony; [volunteer development](https://github.com/BeWelcome/rox) | [Active development; React / TypeScript migration and Nostr integration](https://github.com/Trustroots/trustroots) | Python, React, PostgreSQL; [volunteer development](https://db.couchers.org/open-source) | [App subscriptions fund website and app development](https://www.warmshowers.org/rfaq_item/why-is-the-app-asking-me-to-choose-a-subscription/). A [legacy Drupal/PHP repository](https://github.com/warmshowers/Warmshowers.org) is public; the current member-app stack is not verified. |
+{{< comparison-controls >}}
+
+| Characteristic | {{< platform-logo "cs" >}} | {{< platform-logo "bw" >}} | {{< platform-logo "tr" >}} | {{< platform-logo "co" >}} | {{< platform-logo "ws" >}} | [Servas](https://servas.org/) | [Host a Sister](https://hostasister.global/) | HospitalityClub (archive) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Founded / launched | 2003 incorporation; for-profit transition in 2011 | [February 2007](https://bewelcome.org/press-information) | [December 2014]({{< relref "posts/2014-12-23-introducing-trustroots.md" >}}) | [2020](https://couchers.org/blog/2024/06/12/where-we-are-and-where-we-are-going) | [1993; website in 2005](https://www.warmshowers.org/about-warmshowers/) | [1949](https://canada.servas.org/welcome-to-servas-canada/) | [2019](https://hostasister.global/) | 2000 (archived) |
+| Organisation | 🔴 US [for-profit company](https://www.theguardian.com/travel/2011/aug/26/couchsurfing-investment-budget-travel) | 🟢 French [non-profit BeVolunteer](https://bewelcome.org/about) | 🟢 UK [non-profit Trustroots Foundation](https://www.trustroots.org/faq/foundation) | 🟢 US [501(c)(3) non-profit](https://couchers.org/blog/2022/01/20/couchers-becomes-501c3-nonprofit), Couchers, Inc. | 🟢 US [charitable non-profit](https://www.warmshowers.org/about-warmshowers/) | 🟢 [Non-profit federation](https://servas.org/terms-use) | ⚪ Not verified | ⚪ Archived: sole proprietor |
+| Members (total, not necessarily active) | 25 million+ | [289,793](https://bewelcome.org/) | [145,583](https://www.trustroots.org/api/statistics) | [56,000](https://couchers.org/landing) | [200,000+](https://www.warmshowers.org/) | ⚪ Not verified | ⚪ Not verified | ⚪ 792K in September 2017; not a current figure |
+| Members offering hosting | ⚪ Not verified | ⚪ Not verified | [22,126](https://www.trustroots.org/api/statistics): 12,380 yes; 9,746 maybe | ⚪ Not verified | ⚪ Not verified | ⚪ Not verified | ⚪ Not verified | ⚪ Not verified |
+| Price | 🔴 Paid subscription; current price shown after onboarding | 🟢 [$0 — free; donation-funded](https://bewelcome.org/faq) | 🟢 [$0 — free]({{< relref "posts/2025-11-08-keep-trustroots-free-forever-ever.md" >}}) | 🟢 [$0 — free](https://couchers.org/mission) | 🟡 [US$30 one-time registration](https://www.warmshowers.org/faq/), plus a monthly or annual app subscription for cyclists; host-only app mode has no extra subscription | 🟡 [Local membership fees](https://servas.org/how-join-servas); hospitality is free | 🟢 [Free hospitality](https://hostasister.global/); paid trips are separate | ⚪ Not verified |
+| Open Source | ⚪ Current platform source not verified | 🟢 [Yes, GPL](https://github.com/BeWelcome/rox) | 🟢 [Yes, AGPL-3.0](https://github.com/Trustroots/trustroots) | 🟢 [Yes, MIT](https://github.com/Couchers-org/couchers) | ⚪ [Legacy Drupal source is public](https://github.com/warmshowers/Warmshowers.org/); current platform not verified | ⚪ Not verified | 🔴 Facebook is proprietary; separate hosting software not verified | ⚪ Archived: no |
+| Development | Platform rebuilt in 2026; current stack not verified | PHP / Symfony; [volunteer development](https://github.com/BeWelcome/rox) | [Active development; React / TypeScript migration and Nostr integration](https://github.com/Trustroots/trustroots) | Python, React, PostgreSQL; [volunteer development](https://db.couchers.org/open-source) | [App subscriptions fund website and app development](https://www.warmshowers.org/rfaq_item/why-is-the-app-asking-me-to-choose-a-subscription/). A [legacy Drupal/PHP repository](https://github.com/warmshowers/Warmshowers.org) is public; the current member-app stack is not verified. | ⚪ Not verified | Facebook group; [separate public website](https://hostasister.global/) | ⚪ Archived: custom PHP, described as stalled |
+
 
 ## Feature comparison
 
-| Characteristic | {{< platform-logo "cs" >}} | {{< platform-logo "bw" >}} | {{< platform-logo "tr" >}} | {{< platform-logo "co" >}} | {{< platform-logo "ws" >}} |
-| --- | --- | --- | --- | --- | --- |
-| Browse by map | 🟢 Yes | 🟢 [Yes](https://bewelcome.org/faq/2) | 🟢 [Yes](https://github.com/Trustroots/trustroots/tree/main/modules/search) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1745253994-how-does-the-map-search-work) | 🟢 [Yes](https://www.warmshowers.org/getting-started-with-cycle-touring/) |
-| References / feedback | 🟢 Yes | 🟢 [Yes, comments](https://bewelcome.org/faq/6) | 🟢 [Yes, experiences](https://www.trustroots.org/safety) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-how-can-i-leave-a-reference-for-someone) | 🟢 [Yes, feedback](https://www.warmshowers.org/faq/) |
-| Events | 🟢 Yes | 🟢 [Yes, activities](https://bewelcome.org/faq/7) | ⚪ Dedicated event listings not verified | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1777037506-how-can-i-get-more-host-requests) | ⚪ Not verified |
-| Interest groups | 🟢 Yes, communities | 🟢 [Yes](https://bewelcome.org/faq/7) | 🟢 [Yes, circles](https://www.trustroots.org/faq/tribes) | 🟡 [Planned, not released](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-where-are-hangouts-public-trips-groups-and-favorites) | ⚪ Not verified |
-| Contacts / friends | 🟢 Yes | 🟢 [Yes, family & friends](https://bewelcome.org/communitynews?page=3) | 🟢 [Yes](https://github.com/Trustroots/trustroots/tree/main/modules/contacts) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-how-can-i-leave-a-reference-for-someone) | 🟡 [Save hosts](https://www.warmshowers.org/cycle-touring-with-warmshowers/); mutual contacts not verified |
-| Discussion area | 🟢 Community feeds | 🟢 [Groups and forum](https://bewelcome.org/faq/7) | 🟡 [Nostroots](https://www.trustroots.org/faq/general#why-is-there-no-forum) for community conversations; no traditional forum | 🟢 [Local community discussions](https://help.couchers.org/hc/couchersorg-help-center/articles/1777037506-how-can-i-get-more-host-requests) | 🟢 [Forum](https://forum.warmshowers.org/) |
-| Mobile apps | 🟢 Android, iOS | 🔴 [No current native app](https://bewelcome.org/faq/4) | 🟡 [Android preview](https://github.com/Trustroots/trustroots#android-preview); [Nostroots](https://nos.trustroots.org/) is a separate app | 🟢 [Android and iOS](https://help.couchers.org/hc/couchersorg-help-center/articles/1743983823-where-do-i-download-the-couchers-org-app-for-my-phone) (early development) | 🟢 [Android and iOS](https://www.warmshowers.org/faq/) |
-| Mobile website | ⚪ Mobile layout not checked | 🟢 [Yes](https://bewelcome.org/faq/4) | 🟢 [Yes](https://www.trustroots.org/faq/general#is-there-mobile-app) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1743983823-where-do-i-download-the-couchers-org-app-for-my-phone) | 🟢 [Yes](https://www.warmshowers.org/cycle-touring-with-warmshowers/) |
-| Advertising | 🟡 [Advertising reported in 2015](https://www.thetravelclub.org/articles/traveloscope/698-the-improbable-rise-and-fall-of-couchsurfing); [2026 membership FAQ says ad-free](https://support.couchsurfing.org/hc/en-us/articles/50048105611035-Why-Do-I-Need-a-Membership); [privacy policy permits advertising and targeting](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy) | 🟢 No; [donation-funded](https://bewelcome.org/faq) | 🟢 [No]({{< relref "posts/2025-11-08-keep-trustroots-free-forever-ever.md" >}}) | 🟢 No; [ad-free app](https://apps.apple.com/us/app/couchers-org/id6623776751) | ⚪ Policy not verified |
+| Characteristic | {{< platform-logo "cs" >}} | {{< platform-logo "bw" >}} | {{< platform-logo "tr" >}} | {{< platform-logo "co" >}} | {{< platform-logo "ws" >}} | [Servas](https://servas.org/) | [Host a Sister](https://hostasister.global/) | HospitalityClub (archive) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Browse by map | 🟢 Yes | 🟢 [Yes](https://bewelcome.org/faq/2) | 🟢 [Yes](https://github.com/Trustroots/trustroots/tree/main/modules/search) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1745253994-how-does-the-map-search-work) | 🟢 [Yes](https://www.warmshowers.org/getting-started-with-cycle-touring/) | ⚪ Not verified | ⚪ Not verified | ⚪ Archived: no |
+| References / feedback | 🟢 Yes | 🟢 [Yes, comments](https://bewelcome.org/faq/6) | 🟢 [Yes, experiences](https://www.trustroots.org/safety) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-how-can-i-leave-a-reference-for-someone) | 🟢 [Yes, feedback](https://www.warmshowers.org/faq/) | ⚪ Not verified | ⚪ Not verified | ⚪ Archived: yes |
+| Events | 🟢 Yes | 🟢 [Yes, activities](https://bewelcome.org/faq/7) | ⚪ Dedicated event listings not verified | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1777037506-how-can-i-get-more-host-requests) | ⚪ Not verified | ⚪ Not verified | ⚪ Not verified | ⚪ Archived: no |
+| Interest groups | 🟢 Yes, communities | 🟢 [Yes](https://bewelcome.org/faq/7) | 🟢 [Yes, circles](https://www.trustroots.org/faq/tribes) | 🟡 [Planned, not released](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-where-are-hangouts-public-trips-groups-and-favorites) | ⚪ Not verified | ⚪ Not verified | ⚪ Not verified | ⚪ Archived: yes |
+| Contacts / friends | 🟢 Yes | 🟢 [Yes, family & friends](https://bewelcome.org/communitynews?page=3) | 🟢 [Yes](https://github.com/Trustroots/trustroots/tree/main/modules/contacts) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-how-can-i-leave-a-reference-for-someone) | 🟡 [Save hosts](https://www.warmshowers.org/cycle-touring-with-warmshowers/); mutual contacts not verified | ⚪ Not verified | Facebook profiles and messaging | ⚪ Archived: yes |
+| Discussion area | 🟢 Community feeds | 🟢 [Groups and forum](https://bewelcome.org/faq/7) | 🟡 [Nostroots](https://www.trustroots.org/faq/general#why-is-there-no-forum) for community conversations; no traditional forum | 🟢 [Local community discussions](https://help.couchers.org/hc/couchersorg-help-center/articles/1777037506-how-can-i-get-more-host-requests) | 🟢 [Forum](https://forum.warmshowers.org/) | ⚪ Not verified | [Facebook group posts and comments](https://trutrip.co/blog/women-business-travellers-host-a-sister/) | ⚪ Archived: yes |
+| Mobile apps | 🟢 Android, iOS | 🔴 [No current native app](https://bewelcome.org/faq/4) | 🟡 [Android preview](https://github.com/Trustroots/trustroots#android-preview); [Nostroots](https://nos.trustroots.org/) is a separate app | 🟢 [Android and iOS](https://help.couchers.org/hc/couchersorg-help-center/articles/1743983823-where-do-i-download-the-couchers-org-app-for-my-phone) (early development) | 🟢 [Android and iOS](https://www.warmshowers.org/faq/) | ⚪ Not verified | Facebook app; separate hosting app not verified | ⚪ Archived: no |
+| Mobile website | ⚪ Mobile layout not checked | 🟢 [Yes](https://bewelcome.org/faq/4) | 🟢 [Yes](https://www.trustroots.org/faq/general#is-there-mobile-app) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1743983823-where-do-i-download-the-couchers-org-app-for-my-phone) | 🟢 [Yes](https://www.warmshowers.org/cycle-touring-with-warmshowers/) | ⚪ Not verified | Facebook mobile website | ⚪ Archived: no |
+| Advertising | 🟡 [Advertising reported in 2015](https://www.thetravelclub.org/articles/traveloscope/698-the-improbable-rise-and-fall-of-couchsurfing); [2026 membership FAQ says ad-free](https://support.couchsurfing.org/hc/en-us/articles/50048105611035-Why-Do-I-Need-a-Membership); [privacy policy permits advertising and targeting](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy) | 🟢 No; [donation-funded](https://bewelcome.org/faq) | 🟢 [No]({{< relref "posts/2025-11-08-keep-trustroots-free-forever-ever.md" >}}) | 🟢 No; [ad-free app](https://apps.apple.com/us/app/couchers-org/id6623776751) | ⚪ Policy not verified | ⚪ Not verified | 🔴 [Sponsored posts](https://hostasister.global/promote-on-our-channels/) and Facebook advertising | ⚪ Archived: yes |
+
 
 Couchsurfing’s [membership FAQ](https://support.couchsurfing.org/hc/en-us/articles/50048105611035-Why-Do-I-Need-a-Membership) describes an ad-free service. Its [privacy policy](https://support.couchsurfing.org/hc/en-us/articles/360003320394-Privacy-Policy) still permits advertising partners and targeted advertising, while saying it does not sell personal information. We have not independently verified those claims or a sale of member data.
 
@@ -74,25 +78,19 @@ Here, technical federation or decentralisation means enabling identities, data o
 
 This is a review of published information as of **13 October 2026**, not a claim that unverified projects have no such plans.
 
-## Additional platforms
+## Notes on the additional platforms
 
-Expand a platform below for more detail. Further platforms can be added here without widening the main tables.
+Use **Compare more platforms** above the tables to show Servas, Host a Sister and HospitalityClub alongside Trustroots and Couchers.org. You can also choose your own combination.
 
 {{< details summary="Servas — hospitality and peace-building" >}}
 
 [Servas](https://servas.org/) connects hosts and travellers through local membership groups, with an emphasis on peace, cultural understanding and personal contact.
 
-| Characteristic | Servas |
-| --- | --- |
-| Founded | [1949, originally Peacebuilders](https://canada.servas.org/welcome-to-servas-canada/) |
-| Organisation | 🟢 [International non-profit federation; Swiss non-profit association](https://servas.org/terms-use) |
-| Price | 🟡 [Fees depend on your local Servas group](https://servas.org/how-join-servas). Example: [Canada charges CAD24 per adult per year](https://canada.servas.org/join-servas-canada/fee-structure/), with free membership for eligible youth and students; travel-stamp fees are waived through 2026. |
-| Joining | [Application and an interview](https://servas.org/how-join-servas), usually in person or online, before full member access |
-| Hosting | 🟢 [Free hospitality](https://canada.servas.org/welcome-to-servas-canada/); overnight visits usually last [two nights](https://canada.servas.org/faq/). Day visits are also possible. |
-| Travel preparation | [A valid Letter of Introduction (LOI)](https://servas.org/ethical-code-servas-members); check your group's current travel requirements |
-| Coverage | [More than 130 countries](https://servas.org/) |
-| Website | 🟢 [ServasOnline](https://servas.org/terms-use) supports membership, host contact and arranging visits |
-| Open Source / native apps | ⚪ Current status not verified |
+- Joining involves an [application and interview](https://servas.org/how-join-servas), usually in person or online.
+- [Free hospitality](https://canada.servas.org/welcome-to-servas-canada/) usually means [two-night visits](https://canada.servas.org/faq/); day visits are also possible.
+- Travellers need a [valid Letter of Introduction](https://servas.org/ethical-code-servas-members) and should check their local group's requirements.
+- Servas covers [more than 130 countries](https://servas.org/); [ServasOnline](https://servas.org/terms-use) supports member contact and arranging visits.
+- Fees vary locally: [Canada charges CAD24 per adult per year](https://canada.servas.org/join-servas-canada/fee-structure/), with eligible youth and students free and travel-stamp fees waived through 2026.
 
 Sources checked **13 October 2026**. Local membership groups set their own fees and procedures, so the Canadian example is not a worldwide price.
 
@@ -102,16 +100,7 @@ Sources checked **13 October 2026**. Local membership groups set their own fees 
 
 [Host a Sister](https://hostasister.global/) brings women together for free hospitality, friendship and cultural exchange. It belongs in this comparison because of the community its members have built, even though relying on Facebook comes with substantial drawbacks.
 
-| Characteristic | Host a Sister |
-| --- | --- |
-| Founded | [2019, by Rashvinda Kaur](https://hostasister.global/) |
-| Community | Women connecting with other women around the world |
-| Hosting | 🟢 [Free home-sharing and cultural exchange](https://hostasister.global/) |
-| Arranging a stay | Members [post requests and offers in the Facebook group](https://trutrip.co/blog/women-business-travellers-host-a-sister/), including hosts, travel companions and home swaps |
-| Access | 🔴 The main hospitality community depends on joining its Facebook group |
-| Advertising | 🔴 Host a Sister sells [sponsored group posts and other advertising](https://hostasister.global/promote-on-our-channels/) |
-| Organisation | ⚪ Legal and non-profit status not verified |
-| Dedicated hosting tools | ⚪ A separate host directory with availability and stay references was not verified |
+Members [post requests and offers in the Facebook group](https://trutrip.co/blog/women-business-travellers-host-a-sister/) for hosts, travel companions and home swaps. A dedicated host directory with availability and stay references was not verified.
 
 **Our take: the hospitality is valuable; Facebook is a poor foundation for it.** Arranging stays through posts and comments makes finding a suitable host harder than it needs to be. The community also depends on Meta for account access and the platform's rules, while [Meta uses activity data to personalise content and advertising](https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/). We'd rather see communities like this have tools they can control, built around hospitality and privacy.
 
@@ -124,20 +113,6 @@ Sources checked **13 October 2026**. Free stays are distinct from Host a Sister'
 HospitalityClub — *"Bringing people together"*
 
 This entry preserves the previous comparison as an archive, rather than claiming that old figures describe the service today. **Current status was not verified on 13 October 2026.**
-
-| Characteristic | Archived description |
-| --- | --- |
-| Founded | 2000 |
-| Organisation | Sole proprietor |
-| Community | Not active in the previous comparison; current activity unknown |
-| Members | 792K reported in September 2017; not a current figure |
-| Open Source | 🔴 No in the previous comparison |
-| Development | Custom PHP; described as stalled in the previous comparison |
-| Map search | 🔴 No in the previous comparison |
-| References, groups, contacts and discussions | 🟢 Yes in the previous comparison |
-| Events and mobile apps | 🔴 No in the previous comparison |
-| Mobile friendly site | 🔴 No in the previous comparison |
-| Advertising | 🔴 Yes in the previous comparison |
 
 {{< /details >}}
 
