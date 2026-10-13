@@ -10,8 +10,6 @@ tags: []
 categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
-> Archive note: Some photos from the original post are currently missing.
-
 
 ![](/images/hosted/331d90808c4a-dce77-trtree-1.jpg)
 
@@ -119,11 +117,23 @@ Then publish it ! You can also reach out to members individually sharing the eve
 ![](/images/hosted/372a1ac6f5d6-871c1-meetup4-1.png)
 
 
+![Photos accompanying the community meetups guide](/images/recovered/ef0ad-unadjustednonraw_thumb_33b.jpg)
+
+![Photos accompanying the community meetups guide](/images/recovered/63cdb-meetup7.jpg)
+
 Did you have a great meet up? Or are you organizing a weekly event and would like to highlight it in the Newsletter/blog? Let us Know! *Share@trustroots.org*
 
 ---
 
 **Trustroots Community Stories by [Ivan F.](https://www.trustroots.org/profile/vantje)**
+
+![Photos from Lisa’s hitchhiking story](/images/recovered/a138e-218937536_338047007978884_28727413005100638_n.jpg)
+
+![Photos from Lisa’s hitchhiking story](/images/recovered/64379-218832323_342739460901048_3267791247241538101_n.jpg)
+
+![Photos from Lisa’s hitchhiking story](/images/recovered/cd067-218050197_541661090310511_7680311764213739450_n.jpg)
+
+![Photos from Lisa’s hitchhiking story](/images/recovered/53130-218150486_255632023033310_7034099572798819095_n.jpg)
 
 ***THIS IS HITCHHIKING***
 I am getting tired of all the photos popping up on my feed of beautiful young models without many clothes on, tagging their pictures [#hitchhiking](https://www.instagram.com/explore/tags/hitchhiking/) . Some of us do actually hitchhike for real! So I am posting some photos of what hitchhiking is often **really** like!
@@ -138,6 +148,10 @@ But the beauty of hitchhiking outweighs the negatives. All the kind, kind people
 ---
 
 
+![Photos from Bjorn’s hosting story](/images/recovered/11666-238745763_877490089524292_4967716093243906704_n.jpg)
+
+![Photos from Bjorn’s hosting story](/images/recovered/63dad-239428893_982340289189748_5913862274539167412_n.jpg)
+
 **CRAZY VILLA PARTY**
 
 I just hosted my first ever guests through [@trustroots](https://www.instagram.com/trustroots/) . They had cycled here from Nantes, France and stayed with me for 4 nights. During this time, we saw Stockholm city and various bars along Östermalm, Gamla stan and Söder.
@@ -147,6 +161,16 @@ We ended up on a crazy villa party in the south of the city, went midnight swimm
 *Follow Bjorn on Instagram* [**@bjornmelin90**](https://www.instagram.com/bjornmelin90/)
 
 ---
+
+![Photos from Karen and Ruben’s Finnish adventure](/images/recovered/710c2-karu-finland.jpg)
+
+![Photos from Karen and Ruben’s Finnish adventure](/images/recovered/cdedd-karu-finland-2.jpg)
+
+![Photos from Karen and Ruben’s Finnish adventure](/images/recovered/bf2ea-karu-finland-3.jpg)
+
+![Photos from Karen and Ruben’s Finnish adventure](/images/recovered/2436f-karu-finland-4.jpg)
+
+![Photos from Karen and Ruben’s Finnish adventure](/images/recovered/c841e-karu-finland-5.jpg)
 
 **A FINNISH ADVENTURE**
 
@@ -189,6 +213,10 @@ In the end we spent 3 days together helping each other, fixing stuff, watching a
 
 Walking with a backpack, especially in the mountains. Carrying your essential equipment with a few friends and sewing connections with villages or cities for water, food, dumpsterdiving and other realities. Even when hitchhiking, I really enjoy walking some parts, moving to a different point on foot. When walking an entire day, it happens that the body develops a crystal clear memory of the movements and the mind gravitates around essential priorities. In this sense, travelling it's not often relaxing. It is rather awakening, yet something that feeds me.
 
+
+![Photos from Edoardo’s travels](/images/recovered/601a7-edoardo-2.jpg)
+
+![Photos from Edoardo’s travels](/images/recovered/5c769-edoardo-1.jpg)
 
 **Trustroots in the Media**
 

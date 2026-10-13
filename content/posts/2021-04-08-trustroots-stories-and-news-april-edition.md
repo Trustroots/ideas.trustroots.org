@@ -10,8 +10,6 @@ tags: []
 categories: ["Community Stories", "Newsletter", "Trustroots"]
 ---
 
-> Archive note: Some photos from the original post are currently missing.
-
 
 ![](/images/hosted/7c7712605083-32499-9c60739a-7413-47dd-a88c-7c420536de96.jpg)
 
@@ -93,6 +91,12 @@ All photo's are from Mariha
 Since Warmshowers is only for tour bikers and their supporters, we talked about what they need on a platform and how Trustroots can help them out. Bicycle tourers have very minimal needs when traveling: a warm shower, a friendly person to chat over a meal and a safe place to stay for a night is usually more than enough. At the moment you could really help out these Warmshowers refugees by joining the cyclist circle if you would like to welcome them and update in your hosting description if you have safe storage for a bike. Bike tourers usually carry a tent, hammock or bivy with them and it could be useful for other members as well to add aside from a safe bike storage, if you have room for a tent in your garden so they can crash when their phone died and you're not at home. Note however the location displayed on someone profile isn't accurate due to safety reasons. Be sure to contact hosts before traveling and ask for the exact address.
 
 
+![Photos from the Warmshowers community story](/images/recovered/75306-15138523_10209773803276110_5800979883154034976_o-1.jpeg)
+
+![Photos from the Warmshowers community story](/images/recovered/9d18c-148681276_10222580873924872_4743158021841354076_n.jpeg)
+
+![Photos from the Warmshowers community story](/images/recovered/5eecd-15111117_10209773804276135_2169283364924967944_o.jpeg)
+
 In the mean time we're working behind the screens to explore features that Warmshowers has which could also be useful for our community, like visibility for people in your own circles only and adding a phone number to your profile. For now we would like to welcome all members who joined us from Warmshowers. May you find safe havens, hospitality and community spirit here on Trustroots like you did for years on Warmshowers.
 
 See you on the road!
@@ -159,6 +163,12 @@ Currently, Bea is in Bern, Switzerland after a 9 month Covid quarantine in Brazi
 
 To connect with Bea yourself, check out her [Trustroots profile](https://www.trustroots.org/profile/beaveiga), or on IG @[OmFlowYoga](https://www.instagram.com/omflowyoga/).
 
+
+![Photos from Bea’s journey](/images/recovered/a742e-bea3-1.jpeg)
+
+![Photos from Bea’s journey](/images/recovered/f371d-bea4-1.jpeg)
+
+![Photos from Bea’s journey](/images/recovered/1ec5d-bea5.jpeg)
 
 ---
 

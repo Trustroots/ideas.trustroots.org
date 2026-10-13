@@ -109,6 +109,18 @@ needed to build or deploy the site.
 
 ## Content license
 
+Recovered historical photos live in `static/images/recovered/`. Their original
+WordPress URLs, article mappings and file checksums are recorded in
+`data/recovered-images.json`. These files are served locally and do not depend
+on the old WordPress image proxy. Embedded location and other image metadata is
+removed without changing the encoded image pixels. Existing photo credits and
+rights still apply. The image tests check local image references across every
+generated HTML page and verify the recovered images appear in their articles.
+
+The February 2021 changelog's original “after” comparison screenshot and the
+December 2021 newsletter's external Traveling Psychology Advisor logo have not
+been recovered. The changelog identifies its unavailable screenshot explicitly.
+
 Original Trustroots blog text is licensed under **CC BY 4.0**, with author credits
 retained on each post. The comparison page retains its original CC BY 4.0 notice.
 See [LICENSE](LICENSE) for the legal terms and [License & credits](content/license.md)
