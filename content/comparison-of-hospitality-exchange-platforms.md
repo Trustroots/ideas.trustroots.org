@@ -18,7 +18,7 @@ Dots reflect our [values](https://www.trustroots.org/about): 🟢 available or a
 - **TR** — [Trustroots](https://www.trustroots.org/) — *"Travellers' community for sharing, hosting and getting people together"*
 - **CO** — [Couchers.org](https://couchers.org/) — *"Free forever. Community-led. Non-profit."*
 
-| Characteristic | CS | BW | WS | TR | CO |
+| Characteristic | CS | {{< platform-logo "bw" >}} BW | WS | {{< platform-logo "tr" >}} TR | {{< platform-logo "co" >}} CO |
 | --- | --- | --- | --- | --- | --- |
 | Founded / launched | 2003 incorporation; for-profit transition in 2011 | [February 2007](https://bewelcome.org/press-information) | [1993; website in 2005](https://www.warmshowers.org/about-warmshowers/) | [December 2014]({{< relref "posts/2014-12-23-introducing-trustroots.md" >}}) | [2020](https://couchers.org/blog/2024/06/12/where-we-are-and-where-we-are-going) |
 | Organisation | 🔴 US for-profit company | 🟢 French [non-profit BeVolunteer](https://bewelcome.org/about) | 🟢 US [charitable non-profit](https://www.warmshowers.org/about-warmshowers/) | 🟢 UK [non-profit Trustroots Foundation](https://www.trustroots.org/faq/foundation) | 🟢 US [501(c)(3) non-profit](https://couchers.org/blog/2022/01/20/couchers-becomes-501c3-nonprofit), Couchers, Inc. |
@@ -30,7 +30,7 @@ Dots reflect our [values](https://www.trustroots.org/about): 🟢 available or a
 
 ## Feature comparison
 
-| Characteristic | CS | BW | WS | TR | CO |
+| Characteristic | CS | {{< platform-logo "bw" >}} BW | WS | {{< platform-logo "tr" >}} TR | {{< platform-logo "co" >}} CO |
 | --- | --- | --- | --- | --- | --- |
 | Browse by map | 🟢 Yes | 🟢 [Yes](https://bewelcome.org/faq/2) | 🟢 [Yes](https://www.warmshowers.org/getting-started-with-cycle-touring/) | 🟢 [Yes](https://github.com/Trustroots/trustroots/tree/main/modules/search) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1745253994-how-does-the-map-search-work) |
 | References / feedback | 🟢 Yes | 🟢 [Yes, comments](https://bewelcome.org/faq/6) | 🟢 [Yes, feedback](https://www.warmshowers.org/faq/) | 🟢 [Yes, experiences](https://www.trustroots.org/safety) | 🟢 [Yes](https://help.couchers.org/hc/couchersorg-help-center/articles/1715125659-how-can-i-leave-a-reference-for-someone) |
