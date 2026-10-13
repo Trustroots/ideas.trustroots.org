@@ -9,10 +9,6 @@ on:
         description: Publish to GitHub Pages after reviewing the content
         type: boolean
         default: false
-      base_url:
-        description: Canonical URL (use the GitHub project URL for the initial preview)
-        type: string
-        default: https://ideas.trustroots.org/
 permissions:
   contents: read
 concurrency:
@@ -21,10 +17,23 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    outputs:
+      base_url: ${{ steps.pages.outputs.base_url }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           persist-credentials: false
+      - name: Read canonical URL from GitHub Pages
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          base_url=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url')
+          test -n "$base_url" && test "$base_url" != null
+          printf 'base_url=%s\n' "$base_url" >> "$GITHUB_OUTPUT"
       - name: Install pinned Hugo
         shell: bash
         run: |
@@ -39,25 +48,40 @@ jobs:
           echo "$RUNNER_TEMP/hugo-bin" >> "$GITHUB_PATH"
       - name: Build
         env:
-          SITE_BASE_URL: ${{ inputs.base_url || 'https://ideas.trustroots.org/' }}
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo-cache
         run: hugo --minify --panicOnWarning --baseURL "$SITE_BASE_URL"
+      - name: Test generated site
+        env:
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          printf '%s\n' "$GITHUB_SHA" > public/revision.txt
+          python3 scripts/check_site.py --directory public --base-url "$SITE_BASE_URL" --revision "$GITHUB_SHA"
+          python3 -m unittest discover -s tests -v
       - name: Upload Pages artifact
-        if: github.event_name == 'workflow_dispatch' && inputs.deploy && github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.deploy))
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
           path: public
   deploy:
-    if: github.event_name == 'workflow_dispatch' && inputs.deploy && github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.deploy))
     needs: build
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pages: write
       id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5
+      - name: Verify published revision and comparison
+        env:
+          SITE_BASE_URL: ${{ needs.build.outputs.base_url }}
+        run: python3 scripts/check_site.py --live --base-url "$SITE_BASE_URL" --revision "$GITHUB_SHA" --attempts 12

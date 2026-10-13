@@ -39,23 +39,27 @@ publication date; there is no scheduled build configured.
 
 ## Build and deploy
 
-CI builds pull requests and pushes to `main`. It does not deploy automatically
-until explicitly requested. To publish after review:
+Every push to `main` builds, tests and publishes to GitHub Pages. Pull requests
+build and test without publishing. Repository Settings → Pages must use
+**GitHub Actions**. Manual runs can also publish when `deploy` is enabled.
 
-1. In repository Settings → Pages, choose **GitHub Actions**.
-2. Run **Hugo site** from Actions on `main`, with `deploy` enabled.
-3. Review the GitHub Pages URL before changing production DNS.
-4. Verify domain ownership in GitHub, configure `ideas.trustroots.org` in Pages,
-   then update DNS and enforce HTTPS. Rebuild with the production base URL.
+The workflow reads the canonical URL directly from GitHub Pages settings. It
+automatically follows custom-domain changes; manual runs cannot override the URL
+and accidentally publish broken project-site asset paths.
 
-For the initial project-site preview, enter
-`https://trustroots.github.io/ideas.trustroots.org/` as the workflow's `base_url`.
-The custom domain and DNS have not been configured by this scaffold.
+CI checks the rendered comparison content, all six platform logos and their image
+files, internal post and attribution links, excluded outbound links, and RSS.
+After publishing, it checks the same live content and `revision.txt` against the
+deployed commit. A build alone therefore cannot be mistaken for a deployment.
+Run the content checks locally after building with the matching base URL:
+
+```sh
+hugo --minify --panicOnWarning --baseURL https://trustroots.github.io/ideas.trustroots.org/
+python3 scripts/check_site.py --directory public --base-url https://trustroots.github.io/ideas.trustroots.org/
+```
 
 The workflow pins Hugo and GitHub Actions, verifies the Hugo archive checksum,
-and grants Pages write/OIDC permissions only to the manual deployment job.
-Once domain setup is complete, automatic deployment on `main`
-can be enabled deliberately.
+and grants Pages write/OIDC permissions only to the deployment job.
 
 ## Content license
 
@@ -72,6 +76,5 @@ For this GitHub Actions deployment, GitHub requires the custom domain in
 Settings → Pages; the CNAME file alone does not configure it. Cloudflare needs
 a DNS-only CNAME named `ideas` pointing to `trustroots.github.io` (without a
 repository path), replacing the old record for this hostname. Configure the
-GitHub Pages domain before changing DNS, then deploy with
-`base_url=https://ideas.trustroots.org/` and enforce HTTPS when the certificate
+GitHub Pages domain before changing DNS, then deploy and enforce HTTPS when the certificate
 is ready. Until cutover, the project-site preview continues to use its own URL.
