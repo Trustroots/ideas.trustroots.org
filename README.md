@@ -61,6 +61,17 @@ python3 scripts/check_site.py --directory public --base-url https://trustroots.g
 The workflow pins Hugo and GitHub Actions, verifies the Hugo archive checksum,
 and grants Pages write/OIDC permissions only to the deployment job.
 
+## Search and thumbnail crops
+
+`/search/` searches published post titles, authors and text, plus the comparison
+page. Hugo generates `search-index.json`; the search page loads it on demand and
+ranks results in the browser without an external search service. Search queries
+are shareable using `?q=...`. Archive and license pages are excluded from the index.
+
+For a featured portrait that needs a higher crop, add `image_focus: upper` to
+that post's front matter. This changes only its card thumbnail's focal point;
+the original image and other thumbnails retain their existing framing.
+
 ## Content license
 
 Original Trustroots blog text is licensed under **CC BY 4.0**, with author credits

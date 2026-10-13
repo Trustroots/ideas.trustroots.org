@@ -3,6 +3,15 @@ locale = 'en'
 title = 'Trustroots Ideas'
 enableRobotsTXT = true
 
+[outputs]
+home = ['HTML', 'RSS', 'SearchIndex']
+
+[outputFormats.SearchIndex]
+mediaType = 'application/json'
+baseName = 'search-index'
+isPlainText = true
+notAlternative = true
+
 [params]
 description = 'Stories, updates and ideas from the Trustroots community.'
 

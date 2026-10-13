@@ -1,0 +1,7 @@
+{{- $pages := where site.RegularPages "Section" "posts" -}}
+{{- $comparison := where site.RegularPages "File.ContentBaseName" "comparison-of-hospitality-exchange-platforms" -}}
+{{- $index := slice -}}
+{{- range union $pages $comparison -}}
+  {{- $index = $index | append (dict "title" .Title "url" .RelPermalink "date" (.Date.Format "2006-01-02") "dateLabel" (.Date.Format "2 January 2006") "author" (.Params.author | default "Trustroots") "text" .Plain) -}}
+{{- end -}}
+{{- $index | jsonify -}}

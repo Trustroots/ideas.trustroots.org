@@ -6,6 +6,14 @@
     <a href="https://www.trustroots.org/about">More about Trustroots →</a>
   </section>
   <section class="sidebar-panel">
+    <h2>Search the blog</h2>
+    <form class="search-form" role="search" action="{{ "search/" | relURL }}" method="get">
+      <label class="visually-hidden" for="sidebar-search">Search the blog</label>
+      <input id="sidebar-search" type="search" name="q" maxlength="160" placeholder="Search posts…" required>
+      <button type="submit">Search</button>
+    </form>
+  </section>
+  <section class="sidebar-panel">
     <h2>Recent posts</h2>
     <ul class="recent-posts">{{ range first 5 $posts }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></li>{{ end }}</ul>
   </section>

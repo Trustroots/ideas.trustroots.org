@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="blog-layout">
+  <section class="search-page" data-search-index="{{ "search-index.json" | relURL }}">
+    <h1>{{ .Title }}</h1>
+    <form class="search-form search-form-main" role="search" action="{{ "search/" | relURL }}" method="get">
+      <label class="visually-hidden" for="search-query">Search posts and the comparison page</label>
+      <input id="search-query" type="search" name="q" maxlength="160" placeholder="Search posts…" autocomplete="off">
+      <button type="submit">Search</button>
+    </form>
+    <p id="search-status" class="search-status" role="status" aria-live="polite">Search titles and text across the blog and comparison page.</p>
+    <ol id="search-results" class="search-results" aria-label="Search results"></ol>
+    <noscript><p>Search needs JavaScript. You can also <a href="{{ "posts/" | relURL }}">browse all posts</a> or choose a year in the archive.</p></noscript>
+  </section>
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}
+{{ define "scripts" }}
+{{ $js := resources.FromString "js/search.js" (readFile "static/js/search.js") | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+{{ end }}
