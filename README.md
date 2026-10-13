@@ -56,3 +56,11 @@ The workflow pins Hugo and GitHub Actions, verifies the Hugo archive checksum,
 and grants Pages write/OIDC permissions only to the manual deployment job.
 Once domain setup is complete, automatic deployment on `main`
 can be enabled deliberately.
+
+## Content license
+
+Original Trustroots blog text is licensed under **CC BY 4.0**, with author credits
+retained on each post. The comparison page retains its original CC BY 4.0 notice.
+See [LICENSE](LICENSE) for the legal terms and [License & credits](content/license.md)
+for scope and attribution instructions. Third-party material and software source
+code are not included in this text license.
