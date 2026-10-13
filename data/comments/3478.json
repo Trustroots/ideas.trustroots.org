@@ -1,0 +1,44 @@
+[
+  {
+    "id": 31752,
+    "parent_id": 0,
+    "author": "Mikael",
+    "date": "2020-10-12 22:47:57",
+    "text": "Thanks for writing this up, Noah!"
+  },
+  {
+    "id": 31753,
+    "parent_id": 0,
+    "author": "Martin Lobert (loberto)",
+    "date": "2020-10-12 23:00:06",
+    "text": "Noah, this is a beautiful text about respect and boundaries, while also about being open and welcoming.\nThanks for writing it, I truly enjoyed reading it."
+  },
+  {
+    "id": 31754,
+    "parent_id": 0,
+    "author": "Polyglot",
+    "date": "2020-10-12 23:18:33",
+    "text": "Hi Noah. You describe the challenge so extremely well that I was hoping Trustroots had come up with an equally good solution, and was left a bit disappointed with the tools offered. Joining a tribe is a certain indication that may allow to dig deeper but doesn't quite cut it for me. Just because I am vegan e.g.doesn't lean I expect guests to be so, to. Perhaps it cannot be coded better but after that detailed description of the transparency and matching problem I was hoping for a somewhat more powerful key to solving it. But let's keep looking and help members understand themselves and each other better."
+  },
+  {
+    "id": 31755,
+    "parent_id": 31754,
+    "author": "Noah",
+    "date": "2020-10-13 08:17:00",
+    "text": "Hi Polyglot\nthank you for your comment. I agree that we are not offering a full solution to this problem but after a lot of debate we think that really the only way to approach it is by transparency and courage on the side of the people that meet. I believe it is equally necessary to be able to show your boundaries and to voice your needs - and very importantly - your desires. Freedom to express yourself comes with the experience of acceptance of yourself by others and when different cultures and ways of life are thrown together like with hospitality exchange we are in the best field to experiment with that and learn.\n\nTo keep the text short and an easy read we decided not to include technical details but I see that there could be a little more clarification. What we are offering is a moderated space in case there is a conflict between members. A channel where two conflicting parties can - if they choose to - speak about a situation with a Trustroots Support Member who moderates the conflict. Our experience is that many people are not willing to deal with conflict so we didn't have a chance to try it a lot but we are very happy to be there for you in case you are in a situation where you could use a safe, moderated space."
+  },
+  {
+    "id": 31756,
+    "parent_id": 31755,
+    "author": "Polyglot",
+    "date": "2020-10-16 18:31:01",
+    "text": "Thanks for clarifying, Noah. I agree that hospitality exchange is a growth experience allowing to discover and understand. It's great to see that support is available in case things don't turn out as expected. But your article inspired me to think about ways to prevent problems rather than having to deal with them. To help members (hosts and guests) express their expectations and boundaries to make their experience as enjoyable and enriching as possible. There may be better ways than a free text \"about me\" field and circles."
+  },
+  {
+    "id": 31757,
+    "parent_id": 31756,
+    "author": "Noah",
+    "date": "2020-10-23 15:03:41",
+    "text": "Hi Polyglot\nI would be very, very happy if you could make your thoughts public in a way so that all HospEx platforms could benefit from your ideas.\nWe are working on and developing a reference/experience feature and at some point we will publish it even. It is supposed to be more supportive to our members but we have still not decided about all the mechanics and are a little short in developers time. I am looking forward to publishing this very thoroughly digested ideas that we are brewing since quite a while :)"
+  }
+]

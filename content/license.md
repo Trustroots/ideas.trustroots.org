@@ -15,6 +15,10 @@ post and the license, and indicate any changes you make. See the
 Original author credits and publication dates accompany each post. Older posts
 have been reformatted for this website; their original prose is retained.
 
+Archived reader comments are shown separately from article text. They remain
+the words of their original contributors and are not included in the site's
+CC BY 4.0 license; any rights in those comments remain with their authors.
+
 The **Comparison of Hospitality Exchange platforms** retains its original
 CC BY 4.0 license and attribution to Trustroots Foundation. Publication and update
 dates are shown on the comparison page.

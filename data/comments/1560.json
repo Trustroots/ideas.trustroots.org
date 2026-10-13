@@ -1,0 +1,121 @@
+[
+  {
+    "id": 23623,
+    "parent_id": 0,
+    "author": "Paula",
+    "date": "2017-03-25 18:36:34",
+    "text": "I cannot believe my bad luck! I was just about to register... Oh well. I understand why you'd make the change, though.\n\nI've clicked on the \"Join the waiting list\" button but there's no sign that my mail has been registered. Hopefully it has!"
+  },
+  {
+    "id": 23638,
+    "parent_id": 23623,
+    "author": "Callum Macdonald",
+    "date": "2017-03-25 20:06:01",
+    "text": "Sorry about that, there was a bug in the waiting list form. We're fixing right now!"
+  },
+  {
+    "id": 23639,
+    "parent_id": 23638,
+    "author": "Callum Macdonald",
+    "date": "2017-03-25 20:11:35",
+    "text": "Should be fixed now. Just tested and it looks like it works here... :-)"
+  },
+  {
+    "id": 23889,
+    "parent_id": 0,
+    "author": "Carrie Hall",
+    "date": "2017-03-27 12:42:47",
+    "text": "Hi, would I be able to get an invite please? I'd really appreciate it"
+  },
+  {
+    "id": 23890,
+    "parent_id": 23889,
+    "author": "Callum Macdonald",
+    "date": "2017-03-27 12:48:32",
+    "text": "If you know anyone who's already a member they can share a code with you. Otherwise we'll let folks on the waiting list know when we're ready for a new batch of members."
+  },
+  {
+    "id": 23918,
+    "parent_id": 0,
+    "author": "Christopher Culver",
+    "date": "2017-03-27 17:30:32",
+    "text": "Besides preventing a torrent of new signups who might not truly contribute to the community, that are the TR devs doing to reactivate old members? Click around a lot of cities in Europe and you can see that most members who signed up in earlier days, are completely inactive and do not even answer the many requests they are receiving. So many dead profiles don't make the project look good."
+  },
+  {
+    "id": 23921,
+    "parent_id": 23918,
+    "author": "Callum Macdonald",
+    "date": "2017-03-27 17:39:25",
+    "text": "We'd love your help. Check out the volunteering page."
+  },
+  {
+    "id": 24247,
+    "parent_id": 23921,
+    "author": "Christopher Culver",
+    "date": "2017-03-29 15:16:51",
+    "text": "Can’t help, sorry. While I like to observe TR development, I am sceptical of the longterm viability of any hospex community centered entirely around a single website with the same old profiles and (soon) references as on Couchsurfing. Interactions between members ultimately become quasi-adversarial, as members are instructed to read a prospective host/guest’s profile carefully to determine if they should be hosted/stayed with. Members start to expect detailed profiles and personal (not copy/paste) requests because travelers have to win the trust of hosts, members do not simply automatically trust everyone else on the network. By comparison, networks where hospex goes on through rhizomatic connections like the Rainbow Family or the Russian hitchhiking community seem to maintain a much tighter bond of trust over time. This is generally because people cannot even participate in those networks unless they have already adopted the same lifestyle as the others in the network, and ultimately shared values are what creates trust, not merely website profiles or references.\n\nBut another reason I don’t feel I'd be able to contribute in this regard is just because I am starting to feel too old and out of touch. Typically, a solution for keeping members involved is verifying an e-mail address and ensuring that members receive site notifications. However, e-mail means very little to young people today, and I’m not really familiar with whatever means of communication are replacing e-mail for them. I don’t have FB, either, so how TR would interact with that is unknown to me."
+  },
+  {
+    "id": 24249,
+    "parent_id": 24247,
+    "author": "Mikael",
+    "date": "2017-03-29 15:31:00",
+    "text": "Thanks for elaborating Christopher, I'm always happy to hear any commentary from you!"
+  },
+  {
+    "id": 24034,
+    "parent_id": 23918,
+    "author": "Christopher Culver",
+    "date": "2017-03-28 11:44:09",
+    "text": "Sorry, that should have been “What are the TR devs doing to reactivate old members?”"
+  },
+  {
+    "id": 24058,
+    "parent_id": 23918,
+    "author": "Mikael",
+    "date": "2017-03-28 14:44:13",
+    "text": "Christopher, yep, totally agree and we're working on bringing the reply rate up."
+  },
+  {
+    "id": 31701,
+    "parent_id": 23918,
+    "author": "Marius Miliunas",
+    "date": "2017-06-15 20:28:33",
+    "text": "I second the comment about dead profiles. I wish there was a distinction between people with a 0% response rate and people who are reachable. Couch surfings feature to search users by last login (recently active) would be useful as well."
+  },
+  {
+    "id": 23945,
+    "parent_id": 0,
+    "author": "Eyup",
+    "date": "2017-03-27 21:40:36",
+    "text": "I just would like to be very thankful. This is how trust grows"
+  },
+  {
+    "id": 24099,
+    "parent_id": 0,
+    "author": "silvana mossotto",
+    "date": "2017-03-28 20:05:35",
+    "text": "Ok.I have the code to invite. But my friend should just send a mail with the code or there is a form to fill somewhere? I don't find it sorry!\nRegards"
+  },
+  {
+    "id": 24229,
+    "parent_id": 24099,
+    "author": "Callum Macdonald",
+    "date": "2017-03-29 12:45:29",
+    "text": "There is a code entry form on the signup page.\n\nhttps://www.trustroots.org/signup"
+  },
+  {
+    "id": 31706,
+    "parent_id": 0,
+    "author": "Anthropolodgy",
+    "date": "2017-08-18 03:07:38",
+    "text": "Isn't this contradicting the idea behind it all? No references since we should trust each other, but at the same time only those with friends already registered are able to sign up for it, as if those without friends here are not trustworthy.\nI like the idea behind this site and all but somehow I think you are a bit too extreme. At first extremely inclusive, then extremely exclusive. And constantly extremely anti references. But these last changes to the site are pretty much the same as adding references. Basically anyone that joins from now on has one reference: the person that sent them the code to register with.\nIsn't this just an unusualy complicated way of adding a reference function? It's like you don't want to give up your eternal struggle against references. According to the comments here some people don't even know how to register even though they already have the code.\nWhy not just add a references function and focus on improwing the platform and growing the community? Does it really have a negative impact that people can write comments about eachother?"
+  },
+  {
+    "id": 31707,
+    "parent_id": 31706,
+    "author": "Kaisamai",
+    "date": "2017-08-26 19:26:01",
+    "text": "As I see it, they main reason for invite only was because site is growing so fast- As a website builder they need server space. If there would be too many members, they would probably need to pay more for domain etc. Thats at least what I think, I am not working with the team, but this is how I see it. As they also mentioned \"Right now we simply don’t have the features to support a diverse audience \" and more important for me \"of people with differing values\"\nSo it would be unfair if they would just reach to some limit, where they need to pay more, or build up site better / server bigger because of \"these people were just faster\".\nThere are plent of hostpitaly exchange websites in internet... let there be one for people with similar values then as well.\nFor example I would prefer to use site, where I would know instantly that most of the members would have more similar values, than just love of traveling.\n\"Does it really have a negative impact that people can write comments about eachother?\" -Definitley not. But just because you trust someone does not mean they would share are same values with you. We don't want another site of hospitaly exchange for people who only use it in name of money saving, right? :)"
+  }
+]

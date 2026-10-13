@@ -1,0 +1,79 @@
+[
+  {
+    "id": 16,
+    "parent_id": 0,
+    "author": "libertedeparole",
+    "date": "2014-12-23 19:35:46",
+    "text": "The site seems to be down?"
+  },
+  {
+    "id": 18,
+    "parent_id": 16,
+    "author": "Mikael",
+    "date": "2014-12-23 19:54:19",
+    "text": "libertedeparole: thanks, now it’s up but I’m looking at logs if I can see the reason why that would’ve been. Lemme know if it happens again."
+  },
+  {
+    "id": 20,
+    "parent_id": 18,
+    "author": "libertedeparole",
+    "date": "2014-12-24 12:05:04",
+    "text": "I can access this \"comment\" page.\n\nI see this one too: http://ideas.trustroots.org/2014/12/23/introducing-trustroots/\n\nBut when I click from that page or this one on \"home\", I get sent to https://www.trustroots.org/#!/ which appears completely blank. I'm on Mac 10.9.5, Firefox 34. If I try to reaccess my profile page, https://www.trustroots.org/#!/profile/libertedeparole/, I also receive a blank page. (The trustroots icon appears in my address bar.)"
+  },
+  {
+    "id": 21,
+    "parent_id": 0,
+    "author": "libertedeparole",
+    "date": "2014-12-24 12:19:43",
+    "text": "Restarting my browser seems to have fixed the problem. I'll let you know if I have further issues."
+  },
+  {
+    "id": 22,
+    "parent_id": 21,
+    "author": "libertedeparole",
+    "date": "2014-12-24 12:21:26",
+    "text": "Note that I had the same problem on 2 macs running the same OS & FF"
+  },
+  {
+    "id": 26,
+    "parent_id": 22,
+    "author": "Mikael",
+    "date": "2014-12-25 00:42:07",
+    "text": "Thanks! Did you access beta version from both computers earlier? Seems like we gotta harden our cache-resets when we deploy new versions."
+  },
+  {
+    "id": 23,
+    "parent_id": 0,
+    "author": "libertedeparole",
+    "date": "2014-12-24 12:41:36",
+    "text": "After trying to edit my profile, I am having the same problems accessing many site pages. It was also after profile-editing that the problem first arose."
+  },
+  {
+    "id": 24,
+    "parent_id": 0,
+    "author": "Tjipetir",
+    "date": "2014-12-24 20:06:40",
+    "text": "libertedeparole:\n\"when I click from that page or this one on “home”, I get sent to https://www.trustroots.org/#!/ which appears completely blank. I’m on Mac 10.9.5, Firefox 34. If I try to reaccess my profile page, https://www.trustroots.org/#!/profile/libertedeparole/, I also receive a blank page.\"\n\nI cannot duplicate this experience. Tried on more than one OS and browser; still couldn't reproduce.\n\nAlso, is the comments section following a single, random blog post the most useful place to start accumulating (potential) tech support issues and possible solutions?"
+  },
+  {
+    "id": 25,
+    "parent_id": 24,
+    "author": "Guaka",
+    "date": "2014-12-24 23:09:55",
+    "text": "https://github.com/Trustroots/trustroots/issues would be best place for tech issues, at least from dev perspective. From a user perspective it might be better to use something else. Any ideas?"
+  },
+  {
+    "id": 27,
+    "parent_id": 0,
+    "author": "Tjipetir",
+    "date": "2014-12-25 00:53:03",
+    "text": "Kasper, any kind of (FOSS) forum or even wiki would do. Something users can search, for questions already asked. It would also be nice if it makes use of a SSO (Single Sign On, for TR as a whole... main site, blog comments, forum posts, etc.)\n\nI'm so pleased to see all the new dots appearing on the map, every time I log in - onward and upward!"
+  },
+  {
+    "id": 28,
+    "parent_id": 27,
+    "author": "Kasper Souren",
+    "date": "2014-12-25 11:46:25",
+    "text": "There's https://github.com/Trustroots/trustroots/wiki\nI don't really want to set up and/or manage a forum at this point. Suggestions and proposals welcome though."
+  }
+]

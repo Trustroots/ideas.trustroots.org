@@ -6,6 +6,7 @@ author: "Trustroots"
 draft: false
 tags: []
 categories: ["Foundation", "Trustroots"]
+comments_id: 3331
 ---
 
 ## The elephant in the room

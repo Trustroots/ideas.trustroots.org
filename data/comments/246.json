@@ -1,0 +1,9 @@
+[
+  {
+    "id": 101,
+    "parent_id": 0,
+    "author": "guaka",
+    "date": "2015-01-14 13:25:24",
+    "text": "This question came in: `Does \"if you don’t want FB to receive any data from you\" refer to ALL TR members, or only to those who have linked their FB & TR accounts? IE, does TR code and hosted invisible links send FB info about ALL TR accounts.`\n\nTR is using the FB social graph, which means there are http requests from your browser to FB. It's very minimal but it is information. As soon as we have some code that copies the FB profile pictures to TR this will no longer be the case anymore.\n\nTR doesn't send any information about TR accounts to FB."
+  }
+]

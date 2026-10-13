@@ -6,6 +6,7 @@ author: "Trustroots"
 draft: false
 tags: []
 categories: ["nostr", "Technical", "Trustroots", "Volunteering"]
+comments_id: 9251
 ---
 
 tl;dr:

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 12592,
+    "parent_id": 0,
+    "author": "Christopher Culver",
+    "date": "2016-05-16 12:36:14",
+    "text": "Beyond allowing hosts to allow only requests from certain tribes, will there be a way to block requests from certain tribes? I don’t host families, for example, so even if a traveler is a member of the Hitchhiking tribe (a group I’d host), then as long as they are also a member of the Family tribe, it would be great if my profile didn’t appear on their map."
+  },
+  {
+    "id": 12598,
+    "parent_id": 12592,
+    "author": "Mikael",
+    "date": "2016-05-16 17:57:59",
+    "text": "Thanks Christopher, it's an interesting point. In general we'll aim to make it as flexible as possible — while keeping it easy enough to code+maintain and easy for everyone to use.\n\nIt's always a good idea to write preferences like this to your hosting offer anyway!\n\nRight now first priority on our roadmap is to let you find members on map who belong to certain tribes. Right after that or at the same time; don't let people find you if they don't belong to same tribes as you do. After that the roadmap gets a bit more fuzzy (it's also on my todo to elaborate the roadmap publicly somewhere!)"
+  }
+]

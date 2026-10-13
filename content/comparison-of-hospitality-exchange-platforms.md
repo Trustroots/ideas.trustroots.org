@@ -4,6 +4,7 @@ date: "2015-06-05T11:51:14+02:00"
 url: "/comparison-of-hospitality-exchange-platforms/"
 draft: false
 lastmod: "2026-10-13"
+comments_id: 590
 ---
 
 Hospitality exchange starts with people opening their doors to one another. These projects share that spirit, but each takes a different path. Here’s a look at a few of them, through the lens of our [values](https://www.trustroots.org/about).

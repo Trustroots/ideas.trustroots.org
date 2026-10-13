@@ -1,0 +1,23 @@
+{{- $comments := .comments -}}
+{{- $comment := .comment -}}
+{{- $depth := .depth -}}
+{{- $visualDepth := math.Min $depth 5 -}}
+<li class="archived-comment comment-depth-{{ $visualDepth }}" id="comment-{{ $comment.id }}" data-parent-id="{{ $comment.parent_id }}" data-depth="{{ $depth }}">
+  <article class="archived-comment-card" aria-labelledby="comment-author-{{ $comment.id }}">
+    <header class="archived-comment-header">
+      <h3 id="comment-author-{{ $comment.id }}">{{ $comment.author }}</h3>
+      <time datetime="{{ replace $comment.date " " "T" }}">{{ (time $comment.date).Format "2 January 2006" }}</time>
+    </header>
+    <pre class="comment-body archived-comment-text">{{ $comment.text }}</pre>
+  </article>
+  {{- if lt $depth 20 -}}
+    {{- $children := where $comments "parent_id" $comment.id -}}
+    {{- with sort $children "date" "asc" -}}
+      <ol class="archived-comment-replies" aria-label="Replies to {{ $comment.author }}">
+        {{- range . -}}
+          {{- partial "archived-comments.html" (dict "comments" $comments "comment" . "depth" (add $depth 1)) -}}
+        {{- end -}}
+      </ol>
+    {{- end -}}
+  {{- end -}}
+</li>

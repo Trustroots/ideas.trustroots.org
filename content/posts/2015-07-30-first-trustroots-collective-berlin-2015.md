@@ -8,6 +8,7 @@ image: "/images/2015/07/berlin-kreuzberg-660880_1280-300x225.jpg"
 image_alt: "Kreuzberg, Berlin"
 tags: []
 categories: ["Foundation", "Trustroots", "Volunteering"]
+comments_id: 739
 ---
 
 ![Kreuzberg, Berlin](/images/2015/07/berlin-kreuzberg-660880_1280-300x225.jpg)

@@ -6,6 +6,7 @@ author: "Callum Macdonald"
 draft: false
 tags: []
 categories: ["Trustroots"]
+comments_id: 1514
 ---
 
 This is the Trustroots vision statement:
