@@ -5,14 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
   <meta name="description" content="{{ .Description | default site.Params.description }}">
+  <meta name="theme-color" content="#12b591">
+  <link rel="icon" href="{{ "brand/favicon.png" | relURL }}" type="image/png">
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
   {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
 </head>
 <body>
   <a class="skip" href="#content">Skip to content</a>
-  <header class="site-header"><a class="brand" href="{{ "" | relURL }}">Trustroots <span>Ideas</span></a><nav aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">All posts</a><a href="{{ "comparison-of-hospitality-exchange-platforms/" | relURL }}">Comparison</a><a href="https://www.trustroots.org/">Trustroots ↗</a></nav></header>
+  <header class="site-header"><div class="header-inner"><a class="brand" href="{{ "" | relURL }}" aria-label="Trustroots Ideas home"><img src="{{ "brand/trustroots-white.svg" | relURL }}" alt="Trustroots" width="180" height="33"><span>Ideas</span></a><nav aria-label="Main navigation"><a href="{{ "posts/" | relURL }}">All posts</a><a href="{{ "comparison-of-hospitality-exchange-platforms/" | relURL }}">Comparison</a><a href="https://www.trustroots.org/about">About Trustroots</a><a class="join" href="https://www.trustroots.org/signup">Join Trustroots</a></nav></div></header>
+  {{ block "hero" . }}{{ end }}
   <main id="content">{{ block "main" . }}{{ end }}</main>
-  <footer><p>Trustroots — sharing, connecting, exploring.</p><a href="{{ "index.xml" | relURL }}">RSS</a> · <a href="https://github.com/Trustroots/ideas.trustroots.org">Source &amp; contributions</a><p>Original text: <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Credit the named author and link to the original post. <a href="{{ "license/" | relURL }}">License &amp; credits</a>.</p></footer>
+  <footer class="site-footer"><div class="footer-inner"><p class="footer-tagline">We want a world that encourages trust and adventure.</p><nav aria-label="Footer navigation"><a href="https://www.trustroots.org/">Trustroots.org</a><a href="{{ "index.xml" | relURL }}">RSS feed</a><a href="https://github.com/Trustroots/ideas.trustroots.org">Source &amp; contributions</a></nav><p class="license">Original text: <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Credit the named author and link to the original post. <a href="{{ "license/" | relURL }}">License &amp; credits</a>.</p></div></footer>
 </body>
 </html>

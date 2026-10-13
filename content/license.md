@@ -16,10 +16,18 @@ Original author credits and publication dates accompany each post. Older posts
 have been reformatted for this website; their original prose is retained.
 
 The **Comparison of Hospitality Exchange platforms** retains its original
-CC BY 4.0 license and attribution to Trustroots Foundation. Its tables are a
-historical snapshot, last updated in May 2020.
+CC BY 4.0 license and attribution to Trustroots Foundation. Publication and update
+dates are shown on the comparison page.
 
 Photographs, quotations, screenshots and other third-party material retain their
 respective rights and any individual credits or license notices. The text license
 does not grant rights to third-party works or Trustroots names and logos as
 trademarks. It does not apply to the site's software source code.
+
+## Site artwork
+
+The homepage cover photograph is by [Andrew W Bugelli](http://www.containstraces.blogspot.com/),
+used with the permission recorded by Trustroots. The existing toned version is
+reused from the main Trustroots website. It is **not** included in the CC BY 4.0
+text license. Trustroots logos and the favicon are reused from the main site;
+trademark rights are retained.
