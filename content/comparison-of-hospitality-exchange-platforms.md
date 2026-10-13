@@ -97,6 +97,27 @@ Sources checked **13 October 2026**. Local membership groups set their own fees 
 
 {{< /details >}}
 
+{{< details summary="Host a Sister — women hosting women, through Facebook" >}}
+
+[Host a Sister](https://hostasister.global/) brings women together for free hospitality, friendship and cultural exchange. It belongs in this comparison because of the community its members have built, even though relying on Facebook comes with substantial drawbacks.
+
+| Characteristic | Host a Sister |
+| --- | --- |
+| Founded | [2019, by Rashvinda Kaur](https://hostasister.global/) |
+| Community | Women connecting with other women around the world |
+| Hosting | 🟢 [Free home-sharing and cultural exchange](https://hostasister.global/) |
+| Arranging a stay | Members [post requests and offers in the Facebook group](https://trutrip.co/blog/women-business-travellers-host-a-sister/), including hosts, travel companions and home swaps |
+| Access | 🔴 The main hospitality community depends on joining its Facebook group |
+| Advertising | 🔴 Host a Sister sells [sponsored group posts and other advertising](https://hostasister.global/promote-on-our-channels/) |
+| Organisation | ⚪ Legal and non-profit status not verified |
+| Dedicated hosting tools | ⚪ A separate host directory with availability and stay references was not verified |
+
+**Our take: the hospitality is valuable; Facebook is a poor foundation for it.** Arranging stays through posts and comments makes finding a suitable host harder than it needs to be. The community also depends on Meta for account access and the platform's rules, while [Meta uses activity data to personalise content and advertising](https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/). We'd rather see communities like this have tools they can control, built around hospitality and privacy.
+
+Sources checked **13 October 2026**. Free stays are distinct from Host a Sister's separately advertised paid trips and business promotions.
+
+{{< /details >}}
+
 {{< details summary="HospitalityClub (HC) — archived comparison" >}}
 
 HospitalityClub — *"Bringing people together"*
